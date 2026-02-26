@@ -1,0 +1,2346 @@
+text,label
+Aircraft power on avionics initializing,Preflight
+Flight plan loaded into FMC,Preflight
+Weather radar checked before start,Preflight
+Preflight briefing completed with crew,Preflight
+Hydraulic systems pressure verified,Preflight
+Walkaround inspection confirms no visible damage,Preflight
+Checklist completed before passenger boarding,Preflight
+Oxygen masks checked and operational,Preflight
+Fuel quantity confirmed sufficient for route,Preflight
+Standby instruments tested,Preflight
+Cabin crew greeting passengers at door,Preflight
+Carry-on luggage stowed in overhead bins,Preflight
+Seatbelts being fastened,Preflight
+Passenger manifest checked by cabin crew,Preflight
+Gate agent announces final Preflight call,Preflight
+Preflight bridge connected and secure,Preflight
+Overhead compartments closed by crew,Preflight
+"Okay, before start, parking brake.",Preflight
+Ground staff closing aircraft door,Preflight
+Flight crew conducting final checks before departure,Preflight
+"Passengers boarding completed, all doors secured",Preflight
+"Fuel loading in progress, weight and balance calculated",Preflight
+Cabin crew safety briefing completed,Preflight
+"ATC clearance received, pushback approved",Preflight
+Final maintenance check signed off,Preflight
+Flight plan filed and approved,Preflight
+Ground power unit disconnected,Preflight
+Catering and baggage loading complete,Preflight
+Emergency equipment check verified,Preflight
+Flight deck preparing for engine start,Preflight
+All safety checks completed before engine start,Preflight
+Passenger manifest confirmed,Preflight
+Beacon is on.,Preflight
+De-icing procedure completed when required,Preflight
+Final cargo documentation verified,Preflight
+Crew briefing completed,Preflight
+Aircraft exterior inspection done,Preflight
+Flight management system programmed,Preflight
+Communication systems checked,Preflight
+Before start checklist complete,Preflight
+So I showed him that we can start the pushback,Preflight
+we can start the engines,Preflight
+He gave us the clear sign for number two,Preflight
+Engine two start,Preflight
+Engine one start,Preflight
+Engine one is clear,Preflight
+Engine two is clear,Preflight
+Engine one is clear according to him,Preflight
+Engine two is clear according to him,Preflight
+Flight control check,Preflight
+After start checklist complete,Preflight
+After start anti-ice,Preflight
+Parking brake is set so we can go ahead with the preflight checklist.,Preflight
+"Preflight checklist, gear pins stowed, IV switch on, oxygen and interphone.",Preflight
+"Altimeter instruments. Set, crosschecked.",Preflight
+Requesting clearance to [MASK].,Preflight
+Start the APU,Preflight
+Should we start the APU?,Preflight
+Passengers are boarding,Preflight
+Loading the last of the baggage on board and waiting for some paperwork.,Preflight
+Fuel and oil quantity checked.,Preflight
+Take off speeds set.,Preflight
+Pre-flight complete.,Preflight
+Pre-view and sign complete and let's get our pushback clearance please.,Preflight
+"Okay ground, we are cleared to push.",Preflight
+"Brakes are released, go ahead with the push and please call us for start.",Preflight
+"Okay, we're starting pushback.",Preflight
+Engine has started.,Preflight
+"[MASK], request taxi.",Preflight
+"[MASK], hold short of [MASK] [MASK] and [MASK].",Preflight
+"Cockpit from ground, pushback is complete, continue parking brake set.",Preflight
+"We disconnect and standby, this is the signal on your right side.",Preflight
+"Have a nice flight, I'll see you next time.",Preflight
+Before taxi checklist.,Preflight
+"Before taxi checklist, APU off, ATS off, isolations off, record.",Preflight
+Ground equipment clear.,Preflight
+Taxi checklist complete.,Preflight
+Ground crew gives clear signal for engine two start,Preflight
+Ground crew gives clear signal for engine two start,Preflight
+"Oxygen tested, one hundred percent",Preflight
+"Oxygen tested, one hundred percent",Preflight
+Navigation transfer display switches,Preflight
+"Window hear, On",Preflight
+"Pressurization mode selector, auto",Preflight
+"Flight instruments, heading two three seven, Altimeter one zero one zero",Preflight
+"Flight instruments, heading 2 3 7, Altimeter 1 0 1 0",Preflight
+Request ATC clearence,Preflight
+Romeo stand five information sierra request clearence,Preflight
+Flight requesters route low C7 golf climb initially 6000 feet altitude squak three four four,Preflight
+"I will reject the takeoff for a fire warning, engine failure, predictive windshield warning",Preflight
+If the aircraft is unsafe or unable to fly,Preflight
+Evacuation checklist from the QRH,Preflight
+We will use the isolated pack operation during engine start,Preflight
+"Aircraft is checked, crew is checked.",Preflight
+"In few minutes we will be fully ready to start our journey, thank you very much for your attention",Preflight
+"Frankfurt Delivery, Lufthansa 456, Stand A12, Airbus A320 with information Q, request clearance",Preflight
+"Lufthansa 456, Frankfurt Delivery, Cleared to Munich, N1 departure, Squawk 4623, slot time 1430",Preflight
+"Cleared to Munich, N1 departure, Squawk 4623, Lufthansa 456",Preflight
+"SWISS 789, request start up",Preflight
+"SWISS 789, start up approved, contact Frankfurt Ground 121.850 for taxi instructions",Preflight
+"Start up approved, contact Frankfurt Ground 121.850, SWISS 789",Preflight
+"Austrian Airlines 112, Stand B7, request taxi",Preflight
+"Brussels Airlines 334, contact Tower 118.300",Preflight
+"Contact Tower 118.300, Brussels Airlines 334",Preflight
+"Eurowings 567, request taxi",Preflight
+"Lufthansa 778, contact Frankfurt Tower 118.300",Preflight
+"Contact Frankfurt Tower 118.300, Lufthansa 778",Preflight
+"Parking brake is released, you are clear for push back.",Preflight
+"Roger, standing by for engine startup",Preflight
+"Copy ground,we are ready for engine start up.",Preflight
+Starting sequence will be 2 then 1,Preflight
+Starting sequence will be two then one,Preflight
+"Copy ground, push back is complete, request parking brake",Preflight
+"Engine stabilised, good engine start up",Preflight
+"Engine start procedure is complete, you may revert to hand signals on the left side of the aircraft.",Preflight
+One person will be on the left side with a pin. Have a nice flight,Preflight
+Pre flight checklist completed,Preflight
+They are disconnecting the ground power unit right now.,Preflight
+Take off briefing,Preflight
+"Doors and windows, closed and locked",Preflight
+Taxi takeoff briefing completed ,Preflight
+Anti-collition light is on. Before start checklist completed,Preflight
+There is a change in runway,Preflight
+Clear to push back. Tail to east lane five please,Preflight
+All advised. When ready to start engine,Preflight
+Standing by for engine start up,Preflight
+Are we clear to start engine number one,Preflight
+Are we clear to start engine number 1?,Preflight
+Push back is complete. Could you set your brake?,Preflight
+Parking brake is set. You may disconnect.,Preflight
+Cabin is ready for takeoff,Preflight
+"Threats today, there is a low transition altitude ",Preflight
+Confirm all ground checks are complete and we are ready for pressurising hydraulics,Preflight
+"All ground checks are completed, panels are locked, lock steering pin is in.",Preflight
+Toe bar is connected and we are ready for pushback,Preflight
+Taxi and takeoff briefing is completed,Preflight
+"Ground department, we just finished our push back.",Preflight
+"Parking brake is set, starting engine number 2.",Preflight
+Engine number 2 clear for starting,Preflight
+Flight control check,Preflight
+"Full left, Full right, neutral",Preflight
+"Radar, Full left, Full right, neutral",Preflight
+"Copy, I start with the thing and then push back facing north and clear to start the engine.",Preflight
+"Pushback approved, facing north, Euro-Inx-E, Foxtrot.",Preflight
+"Pushback approved, facing south, Runway 27L, Taxi via Bravo.",Preflight
+"Pushback approved, facing east, Spot 45, Taxi via Alpha and Charlie.",Preflight
+"Cleared for pushback, facing west, Stand Gate 12, Taxi via Mike.",Preflight
+"Engine start approved, expect runway 31, Squawk 4621.",Preflight
+"Start-up approved, QNH 1012, Gate C17, Squawk 3605.",Preflight
+Ground cockpit.. Yes.,Preflight
+We want to start engine one now.,Preflight
+Are we clear to start engine one?,Preflight
+Is engine one clear to start,Preflight
+Requesting engine one start,Preflight
+We want to start engine 1 now.,Preflight
+Are we clear to start engine 1?,Preflight
+Is engine 1 clear to start,Preflight
+Requesting engine 1 start,Preflight
+We want to start engine two now.,Preflight
+Are we clear to start engine two?,Preflight
+Is engine two clear to start,Preflight
+Requesting engine two start,Preflight
+We want to start engine 2 now.,Preflight
+Are we clear to start engine 2?,Preflight
+Is engine 2 clear to start,Preflight
+Requesting engine 2 start,Preflight
+Flight control check.,Preflight
+"Follow right, Neutral, Full left.",Preflight
+Full right.. Neutral.,Preflight
+Radar.. Full left.,Preflight
+So I've seen his clear side and the pin.,Preflight
+You're clear to disconnect.,Preflight
+We are ready for push at any time.,Preflight
+We can start the engines at any time when they are ready.,Preflight
+"First two, then one.",Preflight
+"First 2, then 1.",Preflight
+"First 1, then 2.",Preflight
+"First one, then two.",Preflight
+"First engine one, then engine two.",Preflight
+"First engine 1, then engine 2.",Preflight
+"First engine 2, then engine 1.",Preflight
+"at least the engines are cold right now, so it won't take that long to start up.",Preflight
+Brake is released,Preflight
+"Break is released, ready for pushback",Preflight
+So ground cockpit.,Preflight
+Ground cockpit check.,Preflight
+"Flight control check, Full up.. Full down.",Preflight
+Full up.. Full down.,Preflight
+Neutral.. Full left.,Preflight
+Full right.. Neutral.,Preflight
+And radar check.,Preflight
+Full left.. Full right. Neutral..,Preflight
+"So just waiting for the clear sign, he's coming to disconnect.",Preflight
+He's coming to disconnect.,Preflight
+Ground staff going to disconnect,Preflight
+Anti-ice.. Is off.,Preflight
+Anti-ice.. Is off.,Preflight
+Cockpit on board.,Preflight
+"After start checklist, Anti-ice.. Is off.",Preflight
+"After start checklist, Anti-ice.. Is off. Aircraft status.. Is checked.",Preflight
+Pitch trim.. 24.9%.,Preflight
+Radar trim.. Neutral.,Preflight
+Aircraft status.. Is checked.,Preflight
+Pitch trim.. 28.9%.,Preflight
+Pitch trim.. 27.0%.,Preflight
+"Any failure below V1, our call stop or continue.",Preflight
+Oxygen.. Tested 100 percent.,Preflight
+Flight instruments..,Preflight
+Briefings.. Completed.. Pre-flight checklist complete.,Preflight
+V1 one seven six VR one eight one V2 one eight one.,Preflight
+"ATC nine zero one push back and start approved face the east,",Preflight
+OK.. Before start checklist is complete.,Preflight
+Okay.. Before start checklist is complete.,Preflight
+" Okay, we cleared the push and start facing east.",Preflight
+"Yes Captain, clear to start engines.",Preflight
+"push back up, we can set the parking brakes on.",Preflight
+"Okay Captain.. Okay, we'll start at 1.",Preflight
+You're clear to disconnect.,Preflight
+"V1, 167, VR, 170, V2, 171, VR 30, 151.",Preflight
+I would like to welcome you on board this Airbus A320 on our way to Palma de Mallorca.,Preflight
+"You can see that on the right side. As soon as it is closed, we will fly for about two hours.",Preflight
+The bridge is still connected.,Preflight
+Before takeoff checklist please,Preflight
+"B4 Start checklist, please.",Preflight
+B4 Start checklist complete,Preflight
+Ground cockpit.. Yes.,Preflight
+"Start and push approved, facing north,",Preflight
+"So the bridge is moving, perfect",Preflight
+They are moving the bridge. It will take few more minutes,Preflight
+"Passengers boarded, They are now moving the bridges",Preflight
+"Passengers boarded, They are now moving the bridge",Preflight
+Beacon is turned on.,Preflight
+Beacon light is on.,Preflight
+Beacon turned on,Preflight
+"Ground cockpit. Yeah, the cockpit. Okay. Parking brake is set. Are you ready for push? I lift up. Okay. Very good.",Preflight
+The brake is released and standby please. Copy.,Preflight
+"Okay, cockpit.. Pushback approved, face west, 470.",Preflight
+"Okay, let's do briefing.",Preflight
+"Okay,So in this pushback position, there is no hotspots, but as you said before, it is a busy airport, so we have to watch out.",Preflight
+Aircraft moving to runway via taxiway,Taxi-out
+Following ground controller instructions for taxi,Taxi-out
+Holding short of active runway,Taxi-out
+Taxiing to runway,Taxi-out
+Completed before takeoff checklist,Taxi-out
+Waiting in queue for takeoff clearance,Taxi-out
+Crossing runway [MASK] during taxi,Taxi-out
+Following the yellow taxi lines,Taxi-out
+"De-icing complete, proceeding to runway",Taxi-out
+Line up and wait instruction received,Taxi-out
+Position and hold on runway,Taxi-out
+Taxi-out clearance received from ATC,Taxi-out
+Towbar disconnected,Taxi-out
+"Aircraft aligned on taxiway after Taxi-out,  ground crew signals complete",Taxi-out
+Final checks performed after Taxi-out,Taxi-out
+Ground crew salutes before leaving,Taxi-out
+Taxi clearance acknowledged by pilot,Taxi-out
+Aircraft taxiing along designated taxiway,Taxi-out
+Crossing intersection while taxiing,Taxi-out
+Brakes tested during taxi-out,Taxi-out
+Aircraft approaching holding point,Taxi-out
+Hold short instruction from ATC received,Taxi-out
+Runway crossing approved by tower,Taxi-out
+Taxi lights on during movement,Taxi-out
+Aircraft waiting in queue for departure,Taxi-out
+Request taxi,Taxi-out
+Hotel and alpha to holding point runway 24,Taxi-out
+We could wait to the takeoff now,Taxi-out
+Before we take off,Taxi-out
+We have another look onto the radar screen and see what's going on,Taxi-out
+"Yeah, tower, good morning again, you're in 6RV, ready for departure",Taxi-out
+"Cleared for takeoff in [MASK] degrees, [MASK] knots",Taxi-out
+Line up and cleared for takeoff runway,Taxi-out
+Taxi checklist,Taxi-out
+Taxi checklist complete,Taxi-out
+Flight controls checked,Taxi-out
+Cabin crew prepare for departure,Taxi-out
+we have cleared line up and takeoff,Taxi-out
+"Taxi via Lima [MASK], Mike, enter Lima [MASK], holding point runway [MASK]",Taxi-out
+Cleared to line up,Taxi-out
+"[MASK], in sequence, line up and wait, runway [MASK]",Taxi-out
+"Taxi via alpha, bravo, hold short runway 27L",Taxi-out
+"[MASK], taxi to runway [MASK] via taxiway [MASK]",Taxi-out
+Hold short of runway [MASK] for crossing traffic,Taxi-out
+"Taxi with caution, work in progress near taxiway [MASK]",Taxi-out
+"Expedite taxi, traffic following",Taxi-out
+Give way to A380 on your left,Taxi-out
+Follow the Boeing 737 ahead,Taxi-out
+Turn next right on taxiway charlie,Taxi-out
+Monitor ground control on [MASK],Taxi-out
+Contact tower at holding point,Taxi-out
+Holding point alpha for runway [MASK],Taxi-out
+Sequence number 3 for departure,Taxi-out
+Expect runway [MASK],Taxi-out
+Taxi into position and hold,Taxi-out
+Position and hold runway [MASK],Taxi-out
+"Behind landing traffic, continue taxi",Taxi-out
+Brakes checked.,Taxi-out
+Flaps set for taxi,Taxi-out
+Strobe lights on for taxi,Taxi-out
+Transponder set to altitude,Taxi-out
+Cross runway [MASK] at taxiway [MASK],Taxi-out
+Cleared to cross runway [MASK],Taxi-out
+"No delay expected, proceed to holding point",Taxi-out
+Taxi via the inner taxiway,Taxi-out
+Takeoff clearance expected in [MASK] minutes,Taxi-out
+Line up behind the departing aircraft,Taxi-out
+"Hold position, aircraft on final",Taxi-out
+"Continue taxi, traffic no factor",Taxi-out
+"Taxi via echo, foxtrot to runway [MASK]",Taxi-out
+"[MASK], hold short of taxiway [MASK] for departing traffic",Taxi-out
+"Proceed to runway [MASK], no delay",Taxi-out
+Taxi via south taxiway to runway [MASK],Taxi-out
+"After the MD-11, taxi into position",Taxi-out
+Hold short of the runway boundary,Taxi-out
+"Runway [MASK] assigned, taxi via [MASK]",Taxi-out
+Expect vectors after departure,Taxi-out
+"Departure frequency [MASK], squawk [MASK]",Taxi-out
+"Wind check, [MASK] knots at [MASK]",Taxi-out
+"QNH [MASK], temperature [MASK]",Taxi-out
+Final before takeoff checks complete,Taxi-out
+"Frankfurt Ground, Lufthansa 456, request taxi",Taxi-out
+"Lufthansa 456, Frankfurt Ground, taxi to holding point C, runway 25L",Taxi-out
+"Taxi to holding point C, runway 25L, Lufthansa 456",Taxi-out
+"SWISS 789, after the red and white Antonov with the purple fin, taxi to holding point runway 07R",Taxi-out
+"After the red and white Antonov with the purple fin, taxi to holding point runway 07R, SWISS 789",Taxi-out
+"Austrian Airlines 112, taxi to holding point A1, hold short of Runway 25R",Taxi-out
+"Taxi to holding point A1, hold short of Runway 25R, Austrian Airlines 112",Taxi-out
+"Brussels Airlines 334, cross runway 25R at A1, taxi to holding point C, runway 07L",Taxi-out
+"Cross runway 25R at A1, taxi to holding point C, runway 07L, Brussels Airlines 334",Taxi-out
+"Eurowings 567, after landing Airbus 321, cross Runway 25L at C2, after",Taxi-out
+"After landing Airbus 321, cross Runway 25L at C2 after, Eurowings 567",Taxi-out
+"Lufthansa 891, taxi to holding point C1, runway 25L",Taxi-out
+"Taxi to holding point C1, runway 25L, Lufthansa 891",Taxi-out
+"Air France 223, hold at C1",Taxi-out
+"Hold at C1, Air France 223",Taxi-out
+"British Airways 445, hold position",Taxi-out
+"Holding, British Airways 445",Taxi-out
+"KLM 667, hold short of runway 25L",Taxi-out
+"Hold short of runway 25L, KLM 667",Taxi-out
+"Iberia 889, continue taxi, follow the Lufthansa A320 ahead",Taxi-out
+"Continue taxi, following Lufthansa A320 ahead, Iberia 889",Taxi-out
+"Turkish Airlines 556, give way to A380 on your left",Taxi-out
+"Give way to A380 on left, Turkish Airlines 556",Taxi-out
+"SAS 778, expedite taxi, traffic following",Taxi-out
+"Expediting taxi, SAS 778",Taxi-out
+"TAP Air Portugal 990, taxi with caution, work in progress near taxiway Delta",Taxi-out
+"Taxiing with caution, TAP Air Portugal 990",Taxi-out
+"Lufthansa 234, turn next right on taxiway Charlie",Taxi-out
+"Turn right on taxiway Charlie, Lufthansa 234",Taxi-out
+"Eurowings Discover 116, monitor ground control on 121.700",Taxi-out
+"Monitoring 121.700, Eurowings Discover 116",Taxi-out
+"SWISS 672, contact Frankfurt Tower 118.300",Taxi-out
+"Contact Frankfurt Tower 118.300, SWISS 672",Taxi-out
+"Austrian Airlines 445, contact tower at holding point",Taxi-out
+"Contact tower at holding point, Austrian Airlines 445",Taxi-out
+"Frankfurt Tower, Lufthansa 901, approaching holding point C1",Taxi-out
+"Lufthansa 901, Frankfurt Tower, line up runway 25L",Taxi-out
+"Lining up runway 25L, Lufthansa 901",Taxi-out
+"Brussels Airlines 223, behind landing Boeing 757, line up runway 25L, behind",Taxi-out
+"Behind landing Boeing 757, line up runway 25L, behind, Brussels Airlines 223",Taxi-out
+"Eurowings 334, position and hold runway 25L",Taxi-out
+"Position and hold runway 25L, Eurowings 334",Taxi-out
+"Lufthansa 556, hold position, amendment to clearance",Taxi-out
+"Holding, Lufthansa 556",Taxi-out
+"SWISS 889, sequence number 3 for departure",Taxi-out
+"Sequence number 3, SWISS 889",Taxi-out
+"Austrian Airlines 112, expect runway 25L",Taxi-out
+"Expect runway 25L, Austrian Airlines 112",Taxi-out
+"British Airways 667, expect departure in 5 minutes",Taxi-out
+"Expect departure in 5 minutes, British Airways 667",Taxi-out
+Cabin is ready for departure,Taxi-out
+"Mike at Lima 1, holding point 23L",Taxi-out
+so we are on the way to Lima 1 now and this is exactly what we used for our takeoff performance calculation,Taxi-out
+"Lima 5, Mike, Lima 1, holding point runway 23L.",Taxi-out
+"Lima 1, holding point runway 23L.",Taxi-out
+"Ok, Alpha Alpha 7, clear left side.",Taxi-out
+"I'm going to request the full length, yeah?",Taxi-out
+"Alpha Alpha 7, holding point 13L, EUR30B, thank you.",Taxi-out
+"Yeah, the cabin is also ready.",Taxi-out
+Then I think let's take the taxi checklist before we call the tower.,Taxi-out
+"Yeah, we calculated the full runway.",Taxi-out
+Right.. Brake.. Check.,Taxi-out
+Break performance okay.,Taxi-out
+Break checked and working,Taxi-out
+Breake is working as expected,Taxi-out
+"Ok, Alpha Alpha 7, clear left side.",Taxi-out
+Clear right side.,Taxi-out
+Break check.,Taxi-out
+We need to check the break.,Taxi-out
+Break check is mandatory,Taxi-out
+"So, ok, the brake works wonderful, it's checked.",Taxi-out
+Break is really good. ,Taxi-out
+Break check complete before taxi.,Taxi-out
+Breaking is wounderful,Taxi-out
+Break is working as expected,Taxi-out
+"Yeah, the cabin is also ready.",Taxi-out
+Cabin is ready for takeoff,Taxi-out
+Cabin is checked.,Taxi-out
+Got update from the cabin crew. Cabin is ready.,Taxi-out
+Got update from the cabin crew. Cabin is ready for departure,Taxi-out
+Got update from the cabin crew. Cabin is ready for takeoff,Taxi-out
+taxi checklist,Taxi-out
+Flight controls. Checked,Taxi-out
+Flapsetting.. Config 1 plus F.,Taxi-out
+"Config 1 plus F, radar predictive wind shear. Is on and auto.",Taxi-out
+Engine mode selector. Normal,Taxi-out
+Takeoff no blue.,Taxi-out
+Cabin.. Ready.. Taxi checklist complete.,Taxi-out
+"Okay, full taxi checklist.",Taxi-out
+"Okay, before taxi checklist, anti-ice is auto, recalls checked, flight controls checked.",Taxi-out
+And ground equipment?,Taxi-out
+"EJ901, hold short runway 13R.",Taxi-out
+"hold short runway 13R, taxi ahead.",Taxi-out
+Ready for taxi? Affirm..,Taxi-out
+"DLH245, hold short runway 25L.",Taxi-out
+"DLH245, hold short runway 25L, taxi when ready.",Taxi-out
+"SWR118, hold short runway 28R.",Taxi-out
+"SWR118, hold short runway 28R, taxi ahead.",Taxi-out
+"AUA85, hold short runway 31.",Taxi-out
+"AUA85, hold short runway 31, taxi when able.",Taxi-out
+"BEL209, hold short runway 07L.",Taxi-out
+"BEL209, hold short runway 07L, taxi ahead.",Taxi-out
+"EW611, hold short runway 24.",Taxi-out
+"EW611, hold short runway 24, taxi when ready.",Taxi-out
+"OCN432, hold short runway 18R.",Taxi-out
+"OCN432, hold short runway 18R, taxi ahead.",Taxi-out
+"CFG214, hold short runway 12.",Taxi-out
+"CFG214, hold short runway 12, taxi when cleared.",Taxi-out
+"DLA920, hold short runway 26L.",Taxi-out
+"DLA920, hold short runway 26L, taxi ahead.",Taxi-out
+"GEC845, hold short runway 33.",Taxi-out
+"GEC845, hold short runway 33, taxi when ready.",Taxi-out
+"BOX256, hold short runway 27R.",Taxi-out
+"BOX256, hold short runway 27R, taxi ahead.",Taxi-out
+He did say to hold short runway 13R.,Taxi-out
+"901.. Straight ahead, straight ahead.",Taxi-out
+Straight ahead.. Hold short.,Taxi-out
+"Check.. Yep, hold short of the runway.",Taxi-out
+He did say to hold short runway 13R.,Taxi-out
+Holding short of the runway,Taxi-out
+"First left, Echo 1, 4.",Taxi-out
+"Check.. Lights on, please.",Taxi-out
+Alright. Let's do the before takeoff checklist.,Taxi-out
+Cabin occupants are seated before takeoff checklist is complete.,Taxi-out
+Cabin briefing is confirmed.,Taxi-out
+Clear right.. Straight right off. Checked.,Taxi-out
+"Before start, parking brake.",Taxi-out
+v1,Takeoff
+"v1, rotate",Takeoff
+"Positive rate,  landing gear retracted",Takeoff
+Initial climb angle established,Takeoff
+Aircraft leaving ground effect,Takeoff
+Pilot monitoring calls out speed alive,Takeoff
+Aircraft passing V1 decision speed,Takeoff
+"Aircraft airborne, climb initiated",Takeoff
+Positive climb,Takeoff
+Gear up,Takeoff
+Landing gear up,Takeoff
+100 knots,Takeoff
+Thrust set,Takeoff
+Hundered knots,Takeoff
+"Cleared to takeoff, [MASK]",Takeoff
+Cleared takeoff,Takeoff
+"Positive climb, landing gear retracted.",Takeoff
+"Positive rate, gear up",Takeoff
+Aircraft rotating for liftoff,Takeoff
+"V2 speed achieved, climbing",Takeoff
+"Runway behind us, initial climb",Takeoff
+Takeoff roll commenced,Takeoff
+"[MASK] knots, thrust verified",Takeoff
+V1 decision speed,Takeoff
+Rotation initiated,Takeoff
+"Airspeed alive, taking off",Takeoff
+Liftoff confirmed,Takeoff
+Initial climb phase beginning,Takeoff
+"Runway cleared, climbing out",Takeoff
+Cleared for takeoff from tower,Takeoff
+Engines spooled to takeoff power,Takeoff
+Aircraft accelerating down the runway,Takeoff
+"Rotate,  nose gear lifting off",Takeoff
+Power set,Takeoff
+Eighty knots,Takeoff
+80 knots,Takeoff
+Cross-check,Takeoff
+Thrust levers forward,Takeoff
+Takeoff thrust set,Takeoff
+Engine parameters green,Takeoff
+Airspeed building,Takeoff
+Nose wheel steering,Takeoff
+Engine pressure ratio set,Takeoff
+Passing 100 knots,Takeoff
+"V one, rotate",Takeoff
+"V2, positive rate",Takeoff
+Gear coming up,Takeoff
+Gear retracting,Takeoff
+Gear doors closing,Takeoff
+Acceleration height,Takeoff
+Clean-up,Takeoff
+Runway behind,Takeoff
+Terrain clearance,Takeoff
+Obstacle clearance,Takeoff
+Takeoff roll,Takeoff
+Airspeed alive,Takeoff
+Rudder authority,Takeoff
+Nose coming up,Takeoff
+Main gear off,Takeoff
+Positive climb established,Takeoff
+Power set,Takeoff
+Eighty knots,Takeoff
+80 knots,Takeoff
+Cross-check,Takeoff
+Thrust levers forward,Takeoff
+Takeoff thrust set,Takeoff
+Engine parameters green,Takeoff
+Airspeed building,Takeoff
+Nose wheel steering,Takeoff
+Engine pressure ratio set,Takeoff
+Passing 100 knots,Takeoff
+"V1, rotate",Takeoff
+"V two, positive rate",Takeoff
+Gear coming up,Takeoff
+Gear retracting,Takeoff
+Gear doors closing,Takeoff
+Acceleration height,Takeoff
+Clean-up,Takeoff
+Runway behind,Takeoff
+Terrain clearance,Takeoff
+Obstacle clearance,Takeoff
+Takeoff roll,Takeoff
+Airspeed alive,Takeoff
+Rudder authority,Takeoff
+Nose coming up,Takeoff
+Main gear off,Takeoff
+Positive climb established,Takeoff
+"Metro Tower, Lufthansa 456, approaching holding point C1",Takeoff
+"Lufthansa 456, Metro Tower, line up runway 27",Takeoff
+"Lining up runway 27, Lufthansa 456",Takeoff
+"Lufthansa 456, runway 27, cleared for take-off",Takeoff
+"Cleared for take-off, runway 27, Lufthansa 456",Takeoff
+"Eurowings 789, behind landing Boeing 757, line up runway 27, behind",Takeoff
+"Behind landing Boeing 757, line up runway 27, behind, Eurowings 789",Takeoff
+"British Airways 123, position and hold runway 27",Takeoff
+"Position and hold runway 27, British Airways 123",Takeoff
+"KLM 112, runway 27, cleared for take-off",Takeoff
+"Cleared for take-off, runway 27, KLM 112",Takeoff
+"Swiss 345, no delay expected, cleared for take-off",Takeoff
+"Cleared for take-off, Swiss 345",Takeoff
+"Iberia 901, after departure, climb to 5000 feet",Takeoff
+"After departure, climb to 5000 feet, Iberia 901",Takeoff
+"Singapore Airlines 246, contact Metro Radar 124.6",Takeoff
+"Contact Metro Radar 124.6, Singapore Airlines 246",Takeoff
+"Emirates 802, Metro Radar, radar contact",Takeoff
+"American Airlines 447, maintain runway heading,",Takeoff
+"Expediting climb to 5000 feet, Air Canada 556",Takeoff
+"Etihad 335, cancel SID, turn right heading 180",Takeoff
+"Cancel SID, right heading 180, Etihad 335",Takeoff
+"Looking for traffic, Virgin Atlantic 224",Takeoff
+"EgyptAir 370, contact Departure 125.250",Takeoff
+"Contact Departure 125.250, EgyptAir 370",Takeoff
+"ANA 115, resume normal speed",Takeoff
+"Resuming normal speed, ANA 115",Takeoff
+"JAL 332, cleared to FL 180",Takeoff
+"Cleared to FL 180, JAL 332",Takeoff
+Ready for rolling takeoff,Takeoff
+"Yeah, ready for rolling takeoff",Takeoff
+So ready?,Takeoff
+ready takeoff.,Takeoff
+And on to an ongo,Takeoff
+"Eighty knots, checked. Throttle hold",Takeoff
+"You are ready. A-Firm, I'm ready. Is rolling okay for you? Yeah",Takeoff
+Line up checklist,Takeoff
+Line up checklist complete,Takeoff
+"I have control, takeoff",Takeoff
+Lineup checklist.. Takeoff runway.,Takeoff
+"13L, full length.",Takeoff
+"13L, full length, TKAS.",Takeoff
+So we are cleared for takeoff.,Takeoff
+Thrust set.. One hundred knots.,Takeoff
+Thrust set.. 100 knots.,Takeoff
+"Lineup checklist.. Takeoff runway. 13L, full length.",Takeoff
+TKAS… T-A-R-A..,Takeoff
+Packs 1 and 2.. Off.,Takeoff
+Lineup checklist complete.,Takeoff
+"Lineup checklist.. Takeoff runway. 26H, full length.",Takeoff
+"Lineup checklist.. Takeoff runway. 09R, full length.",Takeoff
+"Lineup checklist.. Takeoff runway. 22L, full length.",Takeoff
+"Lineup checklist.. Takeoff runway. 31C, full length.",Takeoff
+"Lineup checklist.. Takeoff runway. 18R, intersection departure.",Takeoff
+"Lineup checklist.. Takeoff runway. 04L, intersection departure.",Takeoff
+"Lineup checklist.. Takeoff runway. 27R, full length.",Takeoff
+"Lineup checklist.. Takeoff runway. 33L, full length.",Takeoff
+TCAS… T-A-R-A.,Takeoff
+TCAS… STANDBY.,Takeoff
+TCAS… TA ONLY.,Takeoff
+TCAS… OFF.,Takeoff
+TCAS… TEST.,Takeoff
+Packs 1 and 2.. Off.,Takeoff
+Packs 1 and 2.. On.,Takeoff
+"Pack 1.. Off, Pack 2.. On.",Takeoff
+"Pack 1.. On, Pack 2.. Off.",Takeoff
+Packs.. Set for takeoff.,Takeoff
+So we are cleared for takeoff.,Takeoff
+Clear for takeoff,Takeoff
+Takeoff is approved from ATC.,Takeoff
+ATC approved takeoff,Takeoff
+Takeoff is cleared and ready to go.,Takeoff
+Cleared for takeoff. Are you ready?,Takeoff
+Cleared for takeoff. You are control.,Takeoff
+Takeoff.. rolling takeoff okay for you?,Takeoff
+Are you okay with rolling takeoff?,Takeoff
+"Ready for rolling takeoff. Yep, it's fine.",Takeoff
+No changes to the takeoff briefing.,Takeoff
+"Trust set.. 80 knots, hold",Takeoff
+"Positive climb, gear up",Takeoff
+Aircraft climbing through 5000 feet,Climb
+Engine thrust set to climb power,Climb
+"Passing transition altitude, altimeters set",Climb
+Rate of climb maintained at 1500 feet per minute,Climb
+Rate of climb maintained at 1800 fpm,Climb
+Autopilot engaged during climb,Climb
+Aircraft leveling temporarily at restriction altitude,Climb
+Climb checklist completed by crew,Climb
+"Passing flight level 180, seatbelt remain on",Climb
+"Passing FL 240, seatbelt signs remain on",Climb
+Aircraft cleared to higher flight level,Climb
+Aircraft continues steady climb,Climb
+We climb level 250,Climb
+Climbing to initial altitude 10000 feet,Climb
+"Speed checked, flaps zero",Climb
+Climbing to cruise altitude,Climb
+Rate of climb 1200 feet per minute,Climb
+Cleared to FL330,Climb
+Cleared to flight level 280,Climb
+Climbing through 8000 feet,Climb
+Accelerating to climb speed,Climb
+Passing transition altitude,Climb
+Climb power set,Climb
+Cleared to higher altitude by ATC,Climb
+Climbing to assigned flight level,Climb
+Engine power reduced for climb,Climb
+Passing 250 knots below 10000 feet,Climb
+"Reaching 10000 feet, continue climb to 15000 feet",Climb
+"We are passing 12000, climbing 18000",Climb
+Climbing level 300 to be leveled by ,Climb
+Climb FL350,Climb
+Climb flight level 270,Climb
+Set vertical speed,Climb
+Flaps zero,Climb
+Flaps 0,Climb
+Have blue flag down,Climb
+"Passing fl180, climbing 240",Climb
+"Passing 14000, climbing 20000",Climb
+Climb FL310,Climb
+Climb Flight Level 290,Climb
+Climbing FL260,Climb
+Climbing Flight Level 320,Climb
+We're just approaching 15000 to maintain,Climb
+Flaps up,Climb
+Thank you for the climb directs,Climb
+"Delta 345, passing 9000 feet, climb 13000",Climb
+"United 789, passing 16000 feet, climbing 22000",Climb
+What speed are you climbing?,Climb
+"Transition, altimeters set standard. Check",Climb
+After takeoff checklist,Climb
+"Landing gear up and off, flaps up, seatbelts on auto, altimeters set, after takeoff checklist.",Climb
+Speed 280 knots during climb,Climb
+"Crossing, climb FL230, climb FL310.",Climb
+"Crossing, climb flight level 190, climb flight level 270.",Climb
+"American 456, continue to climb, flight plan, flight level 370.",Climb
+"Southwest 123, continue climbing, flight level 100, Canada center.",Climb
+"Crossing, climb Flight Level 120, climb Flight Level 220.",Climb
+"Passing 5000, climbing 8000",Climb
+"Passing 10000, climbing 15000",Climb
+"Passing 18000, climbing 24000",Climb
+"Passing 30000, descending 25000",Climb
+"Passing 12000, descending 8000",Climb
+Aircraft climbing through 5000 feet,Climb
+Engine thrust set to climb power,Climb
+"Passing transition altitude, altimeters set",Climb
+Rate of climb maintained at 1500 feet per minute,Climb
+Rate of climb maintained at 1800 fpm,Climb
+Autopilot engaged during climb,Climb
+Aircraft leveling temporarily at restriction altitude,Climb
+Climb checklist completed by crew,Climb
+"Passing flight level 180, seatbelt remain on",Climb
+"Passing FL 240, seatbelt signs remain on",Climb
+Aircraft cleared to higher flight level,Climb
+Aircraft cleared to higher flight level,Climb
+Aircraft continues steady climb,Climb
+We climb level 250,Climb
+Climbing to initial altitude 10000 feet,Climb
+"Speed checked, flaps zero",Climb
+Climbing to cruise altitude,Climb
+Rate of climb 1200 feet per minute,Climb
+"Open speed window, set flaps up speed.",Climb
+"After takeoff checklist, engine bleeds are on",Climb
+Climb now to flight level 230,Climb
+Climb now to FL230,Climb
+"Frankfurt Radar, Lufthansa 456, Tango 1 departure, passing 2000 feet climbing to 5000 feet",Climb
+"Lufthansa 456, Frankfurt Radar, radar contact, climb to FL 100",Climb
+"Climb to FL 100, Lufthansa 456",Climb
+"SWISS 789, climb to FL 180",Climb
+"Climb to FL 180, SWISS 789",Climb
+"Austrian Airlines 112, climb and maintain FL 240",Climb
+"Climb and maintain FL 240, Austrian Airlines 112",Climb
+"Brussels Airlines 334, passing FL 150 climbing to FL 280",Climb
+"Brussels Airlines 334, climb to FL 280",Climb
+"Climb to FL 280, Brussels Airlines 334",Climb
+"Eurowings 567, climb to FL 220, expedite until passing FL 200",Climb
+"Climb to FL 220, expediting until FL 200, Eurowings 567",Climb
+"Lufthansa 891, stop climb at FL 190",Climb
+"Stop climb at FL 190, Lufthansa 891",Climb
+"Air France 223, resume climb to FL 330",Climb
+"Resume climb to FL 330, Air France 223",Climb
+"British Airways 445, climb to FL 360, no speed restrictions",Climb
+"Climb to FL 360, no speed restrictions, British Airways 445",Climb
+"KLM 667, climb to FL 310, maintain 250 knots or greater",Climb
+"Climb to FL 310, maintain 250 knots, KLM 667",Climb
+"Iberia 889, after passing FL 200, turn right heading 090",Climb
+"After passing FL 200, right heading 090, Iberia 889",Climb
+"Turkish Airlines 556, climb to FL 270, report reaching",Climb
+"Climb to FL 270, will report reaching, Turkish Airlines 556",Climb
+"SAS 778, passing FL 180 climbing to FL 260",Climb
+"SAS 778, identified, continue climb to FL 260",Climb
+"Continue climb to FL 260, SAS 778",Climb
+"TAP Air Portugal 990, climb to FL 290, reduce speed to 280 knots",Climb
+"Climb to FL 290, reduce speed to 280 knots, TAP Air Portugal 990",Climb
+"Lufthansa 234, climb to FL 320, cancel SID, proceed direct LANGEN",Climb
+"Climb to FL 320, cancel SID, direct LANGEN, Lufthansa 234",Climb
+"Eurowings Discover 116, climb to FL 350, affirmative RVSM",Climb
+"Climb to FL 350, affirmative RVSM, Eurowings Discover 116",Climb
+"SWISS 672, unable FL 350 due turbulence, request FL 330",Climb
+"SWISS 672, climb to FL 330",Climb
+"Climb to FL 330, SWISS 672",Climb
+"Austrian Airlines 445, climb to FL 380 when ready",Climb
+"Climb to FL 380 when ready, Austrian Airlines 445",Climb
+"Brussels Airlines 223, passing FL 250 climbing to FL 330",Climb
+"Brussels Airlines 223, continue climb to FL 330",Climb
+"Continue climb to FL 330, Brussels Airlines 223",Climb
+"Eurowings 334, climb to FL 300, speed 300 knots or less",Climb
+"Climb to FL 300, speed 300 knots or less, Eurowings 334",Climb
+"Lufthansa 901, climb to FL 340, contact Munich Control 132.850",Climb
+"Climb to FL 340, contact Munich Control 132.850, Lufthansa 901",Climb
+"Air France 556, climb to FL 370, no restrictions",Climb
+"Climb to FL 370, no restrictions, Air France 556",Climb
+"British Airways 778, stop climb at FL 290, traffic above",Climb
+"Stop climb at FL 290, British Airways 778",Climb
+"KLM 990, resume climb to FL 390",Climb
+"Resume climb to FL 390, KLM 990",Climb
+"Turkish Airlines 445, climb to FL 410, maintain Mach point 80",Climb
+"Climb to FL 410, maintain Mach point 80, Turkish Airlines 445",Climb
+"SAS 667, passing FL 310 climbing to FL 390",Climb
+"SAS 667, radar contact, climb to FL 390",Climb
+"Climb to FL 390, SAS 667",Climb
+"Lufthansa 112, climb to FL 430, report reaching",Climb
+"Climb to FL 430, will report reaching, Lufthansa 112",Climb
+"SWISS 889, climb to FL 360, expedite through FL 280",Climb
+"Climb to FL 360, expediting through FL 280, SWISS 889",Climb
+"Austrian Airlines 334, climb to FL 400, negative RVSM due equipment",Climb
+"Climb to FL 400, negative RVSM, Austrian Airlines 334",Climb
+"Eurowings 567, ready to resume RVSM",Climb
+"Eurowings 567, climb to FL 380, affirmative RVSM",Climb
+"Climb to FL 380, affirmative RVSM, Eurowings 567",Climb
+"So, now flaps 0.",Climb
+Flaps set to 0.,Climb
+Flaps set to zero.,Climb
+Flaps 0.,Climb
+Flaps zero.,Climb
+Flaps are zero.,Climb
+Flaps are 0.,Climb
+"Speed is checked, flaps 0.",Climb
+"Speed is checked, flaps zero.",Climb
+"passing flight level 50, now.",Climb
+"Jerovinks, 30B, request for flight level.",Climb
+"DLH245, request flight level three-six-zero.",Climb
+"Jerovinks 30B, request flight level three-five-zero.",Climb
+And then we can go to climb as well.,Climb
+We can climb now.,Climb
+Climbing to flight level 28.,Climb
+Climbing FL28,Climb
+Just climb up and climb.,Climb
+"DLH245, RG2, contact Munich Center, restricted flight level 180.",Climb
+"Understood, maintaining flight level 180, DLH245.",Climb
+"SWR118, RG3, contact Zurich Center, restricted flight level 200.",Climb
+"Wilco, maintaining flight level 200, SWR118.",Climb
+"AUA85, RG1, contact Vienna Center, restricted flight level 170.",Climb
+"Understood, maintaining flight level 170, AUA85.",Climb
+"BEL209, RG4, contact Brussels Center, restricted flight level 160.",Climb
+"Wilco, maintaining flight level 160, BEL209.",Climb
+"EW611, RG2, contact Cologne Center, restricted flight level 190.",Climb
+"Understood, maintaining flight level 190, EW611.",Climb
+"OCN432, RG1, contact Frankfurt Center, restricted flight level 200.",Climb
+"Wilco, maintaining flight level 200, OCN432.",Climb
+"CFG214, RG3, contact Munich Center, restricted flight level 180.",Climb
+"Understood, maintaining flight level 180, CFG214.",Climb
+"DLA920, RG2, contact Verona Center, restricted flight level 170.",Climb
+"Wilco, maintaining flight level 170, DLA920.",Climb
+"Flaps up.. Speed check, flaps up.",Climb
+"Speed good, flaps are up. ",Climb
+"Checked. After takeoff checklist, please",Climb
+After takeoff checklist complete,Climb
+"Standard is cross check, passing FL5 to now. Check.",Climb
+Yes.. Set standard.,Climb
+So. FL 170. checked,Climb
+Aircraft cruising at Flight level [MASK],Cruise
+Aircraft cruising at FL[MASK],Cruise
+Cabin service begins during cruise,Cruise
+Autopilot maintaining heading and altitude,Cruise
+Aircraft maintaining Mach [MASK],Cruise
+Steady flight in clear skies,Cruise
+Minor turbulence encountered during cruise,Cruise
+Long-range navigation checks ongoing,Cruise
+Engine performance monitored at cruise,Cruise
+Smooth flight at constant altitude,Cruise
+Reached top of climb point,Cruise
+Cruising at mach [MASK],Cruise
+Stable cruise altitude maintained,Cruise
+Autopilot engaged in cruise,Cruise
+Over ocean waypoint,Cruise
+Long range cruise power set,Cruise
+Flight level [MASK] maintained,Cruise
+Crossing international boundary,Cruise
+Smooth air at cruise altitude,Cruise
+Passing halfway point of journey,Cruise
+Cabin service in progress,Cruise
+Monitoring systems during cruise,Cruise
+Fuel consumption normal,Cruise
+We're just approaching [MASK] to maintain,Cruise
+Cruising altitude reached,Cruise
+Level at fl [MASK],Cruise
+FL [MASK] maintained,Cruise
+Aircraft cruising at Flight level [MASK],Cruise
+Maintaining flight level 330,Cruise
+Level at FL350,Cruise
+Cruising at Mach 0.82,Cruise
+Autopilot maintaining track,Cruise
+Cabin service commenced,Cruise
+Top of descent in 45 minutes,Cruise
+Fuel burn tracking as planned,Cruise
+Systems normal at cruise altitude,Cruise
+Light chop at flight level 330,Cruise
+"Smooth conditions, maintaining altitude",Cruise
+Crossing waypoint ALPHA,Cruise
+Next waypoint in 120 miles,Cruise
+"ETP calculated, all normal",Cruise
+Long range cruise established,Cruise
+Cost index optimized,Cruise
+Engine EPR stabilized,Cruise
+N1 at cruise setting,Cruise
+Fuel flow normal,Cruise
+Pressurization stable,Cruise
+OAT minus 45 Celsius,Cruise
+ISA deviation plus 2,Cruise
+Tailwind component 25 knots,Cruise
+Ground speed 480 knots,Cruise
+True airspeed 450 knots,Cruise
+Crossing the Rockies at FL370,Cruise
+"Over ocean, SATCOM active",Cruise
+HF radio check complete,Cruise
+ACARS data link normal,Cruise
+Weather radar clear ahead,Cruise
+TCAS operational,Cruise
+Transponder mode Charlie,Cruise
+Maintaining assigned track,Cruise
+RNAV accuracy within limits,Cruise
+FMS performance normal,Cruise
+Cabin altitude 8000 feet,Cruise
+Passenger signs off,Cruise
+Crew rest period started,Cruise
+Flight deck lunch service,Cruise
+Position report sent,Cruise
+Crossing FIR boundary,Cruise
+Contacting new center frequency,Cruise
+Monitoring 121.5,Cruise
+Stable at cruise configuration,Cruise
+Auto-throttle engaged,Cruise
+Flight directors off,Cruise
+Navigation display set,Cruise
+Engine anti-ice off,Cruise
+Wing anti-ice off,Cruise
+Continuous ignition off,Cruise
+Seat belt sign off,Cruise
+Crew conducting walkaround,Cruise
+Galley equipment secured,Cruise
+Monitoring weather ahead,Cruise
+Next ATC frequency ready,Cruise
+Satellite phone test,Cruise
+Cabin temperature stable,Cruise
+Flight progress on schedule,Cruise
+We are currently cruizing at 35000 feet,Cruise
+"Munich Control, Lufthansa 456, FL 330, Mach .82, direct LANGEN",Cruise
+"Lufthansa 456, Munich Control, radar contact, maintain FL 330",Cruise
+"Maintain FL 330, Lufthansa 456",Cruise
+"SWISS 789, maintain FL 350",Cruise
+"Maintain FL 350, SWISS 789",Cruise
+"Austrian Airlines 112, maintain FL 370, no speed restrictions",Cruise
+"Maintain FL 370, no speed restrictions, Austrian Airlines 112",Cruise
+"Brussels Airlines 334, maintain FL 310, reduce speed to Mach .78",Cruise
+"Maintain FL 310, reduce speed to Mach .78, Brussels Airlines 334",Cruise
+"Eurowings 567, maintain FL 290, report passing WAYPOINT ALPHA",Cruise
+"Maintain FL 290, will report passing WAYPOINT ALPHA, Eurowings 567",Cruise
+"Lufthansa 891, maintain FL 330, contact Vienna Control 127.050",Cruise
+"Maintain FL 330, contact Vienna Control 127.050, Lufthansa 891",Cruise
+"Air France 223, maintain FL 360, direct PARIS",Cruise
+"Maintain FL 360, direct PARIS, Air France 223",Cruise
+"British Airways 445, maintain FL 380, squawk 4623",Cruise
+"Maintain FL 380, squawk 4623, British Airways 445",Cruise
+"KLM 667, maintain FL 340, cross WAYPOINT BRAVO at FL 340",Cruise
+"Maintain FL 340, cross WAYPOINT BRAVO at FL 340, KLM 667",Cruise
+"Iberia 889, maintain FL 320, expect higher level in 10 minutes",Cruise
+"Maintain FL 320, expecting higher level, Iberia 889",Cruise
+"Turkish Airlines 556, maintain FL 390, negative RVSM due equipment",Cruise
+"Maintain FL 390, negative RVSM, Turkish Airlines 556",Cruise
+"SAS 778, maintain FL 350, ready to resume RVSM?",Cruise
+"SAS 778, affirmative RVSM, maintain FL 350",Cruise
+"Affirmative RVSM, maintain FL 350, SAS 778",Cruise
+"TAP Air Portugal 990, maintain FL 310, unable higher due weight",Cruise
+"TAP 990, maintain FL 310, roger",Cruise
+"Maintain FL 310, TAP 990",Cruise
+"Lufthansa 234, maintain FL 330, turbulence reported at FL 350",Cruise
+"Maintain FL 330, Lufthansa 234",Cruise
+"Eurowings Discover 116, maintain FL 370, cleared direct ROMEO",Cruise
+"Maintain FL 370, direct ROMEO, Eurowings Discover 116",Cruise
+"SWISS 672, maintain FL 410, optimum level FL 430",Cruise
+"Maintain FL 410, SWISS 672",Cruise
+"Austrian Airlines 445, maintain FL 360, contact Zurich Control 128.320",Cruise
+"Maintain FL 360, contact Zurich Control 128.320, Austrian Airlines 445",Cruise
+"Brussels Airlines 223, maintain FL 340, speed 280 knots or greater",Cruise
+"Maintain FL 340, speed 280 knots or greater, Brussels Airlines 223",Cruise
+"Eurowings 334, maintain FL 300, report ETA WAYPOINT CHARLIE",Cruise
+"Maintain FL 300, will report ETA WAYPOINT CHARLIE, Eurowings 334",Cruise
+"Lufthansa 901, maintain FL 380, no change to flight plan",Cruise
+"Maintain FL 380, Lufthansa 901",Cruise
+"Air France 556, maintain FL 420, Mach .82",Cruise
+"Maintain FL 420, Mach .82, Air France 556",Cruise
+"British Airways 778, maintain FL 390, expect descent in 20 minutes",Cruise
+"Maintain FL 390, expecting descent in 20 minutes, British Airways 778",Cruise
+"KLM 990, maintain FL 350, cleared present position direct DELTA",Cruise
+"Maintain FL 350, direct DELTA, KLM 990",Cruise
+"Turkish Airlines 445, maintain FL 370, cross ECHO at and maintain FL 370",Cruise
+"Maintain FL 370, cross ECHO at FL 370, Turkish Airlines 445",Cruise
+"SAS 667, maintain FL 330, weather deviation approved left of track",Cruise
+"Maintain FL 330, deviation approved left, SAS 667",Cruise
+"Lufthansa 112, maintain FL 410, report top of descent",Cruise
+"Maintain FL 410, will report top of descent, Lufthansa 112",Cruise
+"SWISS 889, maintain FL 360, QNH 1013",Cruise
+"Maintain FL 360, QNH 1013, SWISS 889",Cruise
+"Austrian Airlines 334, maintain FL 380, no reported turbulence",Cruise
+"Maintain FL 380, Austrian Airlines 334",Cruise
+"Eurowings 567, maintain FL 320, contact Berlin Control 135.900",Cruise
+"Maintain FL 320, contact Berlin Control 135.900, Eurowings 567",Cruise
+"Lufthansa 778, maintain FL 400, long range cruise power approved",Cruise
+"Maintain FL 400, long range cruise, Lufthansa 778",Cruise
+"Air France 990, maintain FL 340, cleared via flight planned route",Cruise
+"Maintain FL 340, via flight plan, Air France 990",Cruise
+"British Airways 223, maintain FL 430, maximum altitude FL 450",Cruise
+"Maintain FL 430, maximum FL 450, British Airways 223",Cruise
+"KLM 445, maintain FL 310, step climb to FL 390 available in 15 minutes",Cruise
+"Maintain FL 310, expecting step climb, KLM 445",Cruise
+"Turkish Airlines 778, maintain FL 370, cleared shortcut via FOXTROT",Cruise
+"Maintain FL 370, shortcut via FOXTROT, Turkish Airlines 778",Cruise
+"SAS 112, maintain FL 350, next waypoint GOLF in 120 miles",Cruise
+"Maintain FL 350, SAS 112",Cruise
+"Munich Center, Lufthansa 245, maintaining flight level 370, inbound LUPOS.",Cruise
+"Lufthansa 245, Vienna Radar contact, ANEXA 2A arrival, runway 26R.",Cruise
+"ANEXA 2A arrival runway 26R, Lufthansa 245, thank you.",Cruise
+"Zurich Center, Swiss 223, maintaining flight level 350, inbound KPT.",Cruise
+"Swiss 223, Milan Radar contact, BERTA 3W arrival, runway 35L.",Cruise
+"BERTA 3W arrival runway 35L, Swiss 223, thank you.",Cruise
+"Vienna Center, Austrian 85, maintaining flight level 360, inbound LNZ.",Cruise
+"Austrian 85, Budapest Radar contact, MOLUS 1L arrival, runway 31.",Cruise
+"MOLUS 1L arrival runway 31, Austrian 85, thank you.",Cruise
+"Brussels Center, Brussels 248, maintaining flight level 330, inbound SPI.",Cruise
+"Brussels 248, Frankfurt Radar contact, SOBRA 4S arrival, runway 25L.",Cruise
+"SOBRA 4S arrival runway 25L, Brussels 248, thank you.",Cruise
+"Cologne Center, Eurowings 611, maintaining flight level 370, inbound NVO.",Cruise
+"Eurowings 611, Prague Radar contact, LOMKI 3M arrival, runway 24.",Cruise
+"LOMKI 3M arrival runway 24, Eurowings 611, thank you.",Cruise
+"Frankfurt Center, Discover 432, maintaining flight level 390, inbound KENUP.",Cruise
+"Discover 432, Palma Radar contact, TOLSO 2A arrival, runway 06R.",Cruise
+"TOLSO 2A arrival runway 06R, Discover 432, thank you.",Cruise
+"Munich Center, Condor 214, maintaining flight level 370, inbound RUDAP.",Cruise
+"Condor 214, Vienna Radar contact, SOPER 3M arrival, runway 29.",Cruise
+"SOPER 3M arrival runway 29, Condor 214, thank you.",Cruise
+"Verona Center, Air Dolomiti 920, maintaining flight level 290, inbound LAGEN.",Cruise
+"Air Dolomiti 920, Munich Radar contact, NAPSA 2W arrival, runway 26L.",Cruise
+"NAPSA 2W arrival runway 26L, Air Dolomiti 920, thank you.",Cruise
+"Leipzig Center, Lufthansa Cargo 845, maintaining flight level 330, inbound OSN.",Cruise
+"Lufthansa Cargo 845, Warsaw Radar contact, BOKSU 3M arrival, runway 33.",Cruise
+"BOKSU 3M arrival runway 33, Lufthansa Cargo 845, thank you.",Cruise
+"Leipzig Center, AeroLogic 256, maintaining flight level 350, inbound BUREL.",Cruise
+"AeroLogic 256, Paris Radar contact, MOPAR 2A arrival, runway 27R.",Cruise
+"MOPAR 2A arrival runway 27R, AeroLogic 256, thank you.",Cruise
+Mach vertical speed,Cruise
+"Hold, we'll maintain 300 knots then.",Cruise
+ATC instructs descent to FL 1100,Descent
+Aircraft descending through FL 180 feet,Descent
+Speed brakes partially deployed,Descent
+"Cabin crew, prepare for arrival please.",Descent
+"Passing transition level, altimeters set.",Descent
+Aircraft reducing speed during descent,Descent
+Passenger signs illuminated,Descent
+Rate of descent is 1500 fpm.,Descent
+Aircraft stabilized in descent path,Descent
+Top of descent point approaching,Descent
+Beginning descent to lower altitude,Descent
+Descending to flight level 180,Descent
+Rate of descent 1200 fpm,Descent
+Cleared to lower altitude,Descent
+Passing flight level 250,Descent
+Descent power set,Descent
+Speed brakes deployed for descent,Descent
+Descending through 15000 feet,Descent
+Approaching transition level,Descent
+Preparing cabin for arrival,Descent
+Descent checklist completed,Descent
+Descend Flight Level 210,Descent
+"We are passing 14000, descending 9000",Descent
+"When ready, descend to Flight level 160",Descent
+"When ready, descend to FL 150",Descent
+So let's start the descent.,Descent
+Altitude alert 250,Descent
+Descending level 120 inbound to,Descent
+Descending to flight level 110,Descent
+Descending flight level 190,Descent
+Descending level 170,Descent
+We are descending flight level 130,Descent
+Passing flight level 280 descending to flight level 220,Descent
+Descend altitude 19000 feet,Descent
+"Descending 14000, 11000",Descent
+"Descending Flight Level 260, 180",Descent
+Descend FL230,Descent
+"Delta 345, descend 11000",Descent
+"Descend 8000, United 456.",Descent
+"American 123, descend 17000 feet, heading 270, intercept localizer.",Descent
+"Descend 16000 feet, Southwest 789, heading 180, cleared ILS approach.",Descent
+"United 567, descend to 5000",Descent
+"Descending 17000, 12000.",Descent
+"Descending altitude 13000 feet, Alaska 345, established localizer.",Descent
+"Lufthansa 456, descend and maintain flight level 190.",Descent
+"Descend and maintain flight level 170, British Airways 123.",Descent
+Descend checklist complete.,Descent
+Approach briefing complete.,Descent
+Descend checklist,Descent
+"Emirates 345, descend and maintain 13000, Val.",Descent
+"Qatar 789, begin your descent, descend and maintain flight level 150.",Descent
+"Descend and maintain flight level 130, Singapore 456.",Descent
+Descend and maintain flight level 110.,Descent
+Descending flight level 100.,Descent
+Transitional level checklist.,Descent
+"Transitional level checklist, passenger signs on, all passengers set, recall check,",Descent
+Transitional level checklist complete.,Descent
+"Seattle Approach, Alaska 234, descend and maintain 12000",Descent
+"Descend and maintain 8000, Delta 567.",Descent
+Descend via the JANET arrival,Descent
+"United 890, descend and maintain 7000, contact approach on 133.65.",Descent
+Descend at pilot's discretion to 10000,Descent
+Cross VORRY at and maintain 9000,Descent
+Expect lower in 5 minutes,Descent
+Leaving FL330 for 280,Descent
+Descending via STAR procedure,Descent
+Reduce speed to 250 knots below 10000,Descent
+"Passing 17000, descending 12000",Descent
+Cleared for continuous descent approach,Descent
+Descending with speed brakes extended,Descent
+Vertical speed 1500 fpm down,Descent
+Approaching initial approach altitude,Descent
+"Descend to 5000, intercept glide path",Descent
+"Passing 11000, established on arrival",Descent
+Cleared to descend via arrival procedure,Descent
+Descending to 4000 on the ILS,Descent
+"Passing 13000, configuring for approach",Descent
+"Top of descent reached, commencing descent",Descent
+"Descending to 3000, gear down at 2000",Descent
+May we confirm that we are cleared to descent via  seekar 1 arrival 7,Descent
+"Munich Control, Lufthansa 456, FL 330, estimating LANGEN at 45, request descent",Descent
+"Lufthansa 456, Munich Control, descend to FL 240",Descent
+"Descend to FL 240, Lufthansa 456",Descent
+"SWISS 789, descend to FL 190",Descent
+"Descend to FL 190, SWISS 789",Descent
+"Austrian Airlines 112, descend to FL 150, cross LANGEN at and maintain FL 150",Descent
+"Descend to FL 150, cross LANGEN at FL 150, Austrian Airlines 112",Descent
+"Eurowings 567, when ready, descend to FL 180",Descent
+"When ready, descend to FL 180, Eurowings 567",Descent
+"Lufthansa 891, descend to FL 120, reduce speed to 250 knots",Descent
+"Descend to FL 120, reduce speed to 250 knots, Lufthansa 891",Descent
+"Air France 223, descend to FL 100, expedite until passing FL 150",Descent
+"Descend to FL 100, expediting until FL 150, Air France 223",Descent
+"British Airways 445, descend to FL 080, contact Approach 119.200",Descent
+"Descend to FL 080, contact Approach 119.200, British Airways 445",Descent
+"KLM 667, descend to FL 130, cross DELTA at and maintain FL 130",Descent
+"Descend to FL 130, cross DELTA at FL 130, KLM 667",Descent
+"Iberia 889, descend to FL 090, speed 280 knots or less",Descent
+"Descend to FL 090, speed 280 knots or less, Iberia 889",Descent
+"Turkish Airlines 556, descend to FL 070, report passing FL 100",Descent
+"Descend to FL 070, will report passing FL 100, Turkish Airlines 556",Descent
+"SAS 778, descend to FL 160, no speed restrictions",Descent
+"Descend to FL 160, no speed restrictions, SAS 778",Descent
+"TAP Air Portugal 990, descend to FL 140, expect ILS approach runway 26L",Descent
+"Descend to FL 140, expecting ILS runway 26L, TAP 990",Descent
+"Lufthansa 234, descend to FL 110, maintain 300 knots until 10 DME",Descent
+"Descend to FL 110, maintain 300 knots until 10 DME, Lufthansa 234",Descent
+"Eurowings Discover 116, descend to FL 170, via BAVARIA 3 arrival",Descent
+"Descend to FL 170, via BAVARIA 3 arrival, Eurowings Discover 116",Descent
+"SWISS 672, descend to FL 150, reduce speed to 250 knots below FL 100",Descent
+"Descend to FL 150, reduce speed to 250 below FL 100, SWISS 672",Descent
+"Austrian Airlines 445, descend to FL 130, cleared via STAR procedure",Descent
+"Descend to FL 130, via STAR procedure, Austrian Airlines 445",Descent
+"Brussels Airlines 223, descend to FL 190, contact Munich Approach 120.500",Descent
+"Descend to FL 190, contact Munich Approach 120.500, Brussels Airlines 223",Descent
+"Eurowings 334, descend to FL 120, expect vectors ILS runway 08R",Descent
+"Descend to FL 120, expect vectors ILS runway 08R, Eurowings 334",Descent
+"Lufthansa 901, descend to FL 100, report established on arrival",Descent
+"Descend to FL 100, will report established, Lufthansa 901",Descent
+"Air France 556, descend to FL 180, cross ROMEO at and maintain FL 180",Descent
+"Descend to FL 180, cross ROMEO at FL 180, Air France 556",Descent
+"British Airways 778, descend to FL 140, expedite descent, traffic below",Descent
+"Descend to FL 140, expediting descent, British Airways 778",Descent
+"KLM 990, descend to FL 160, maintain Mach point 78",Descent
+"Descend to FL 160, maintain Mach point 78, KLM 990",Descent
+"Turkish Airlines 445, descend to FL 110, cleared continuous descent approach",Descent
+"Descend to FL 110, cleared continuous descent, Turkish Airlines 445",Descent
+"SAS 667, descend to FL 130, contact Terminal 118.700",Descent
+"Descend to FL 130, contact Terminal 118.700, SAS 667",Descent
+"Lufthansa 112, descend to FL 150, reduce rate of descent to 1500 fpm",Descent
+"Descend to FL 150, reducing rate to 1500 fpm, Lufthansa 112",Descent
+"SWISS 889, descend to FL 170, expect further descent in 5 minutes",Descent
+"Descend to FL 170, expecting further descent, SWISS 889",Descent
+"Austrian Airlines 334, descend to FL 190, speed 260 knots",Descent
+"Descend to FL 190, speed 260 knots, Austrian Airlines 334",Descent
+"Eurowings 567, descend to FL 120, report leaving FL 180",Descent
+"Descend to FL 120, will report leaving FL 180, Eurowings 567",Descent
+"Lufthansa 778, descend to FL 100, cleared via MUNICH 2 arrival",Descent
+"Descend to FL 100, via MUNICH 2 arrival, Lufthansa 778",Descent
+"Air France 990, descend to FL 140, maintain 280 knots",Descent
+"Descend to FL 140, maintain 280 knots, Air France 990",Descent
+"British Airways 223, descend to FL 160, expect visual approach runway 26L",Descent
+"Descend to FL 160, expecting visual approach runway 26L, British Airways 223",Descent
+"KLM 445, descend to FL 130.",Descent
+"Descend to FL 130, KLM 445",Descent
+"Turkish Airlines 778, descend to FL 150, report passing FL 200",Descent
+"Descend to FL 150, will report passing FL 200, Turkish Airlines 778",Descent
+"SAS 112, descend to FL 110, maintain 250 knots below FL 100",Descent
+"Descend to FL 110, maintain 250 knots below FL 100, SAS 112",Descent
+"Lufthansa 334, descend to FL 170, contact Approach on 125.250",Descent
+"Descend to FL 170, contact Approach 125.250, Lufthansa 334",Descent
+"SWISS 556, descend to FL 190, cleared for RNAV approach runway 26R",Descent
+"Descend to FL 190, cleared RNAV approach runway 26R, SWISS 556",Descent
+"Austrian Airlines 778, descend to FL 120, expedite through FL 150",Descent
+"Descend to FL 120, expediting through FL 150, Austrian Airlines 778",Descent
+Speed brakes retracted.,Descent
+Speed brakes stowed.,Descent
+Speed brakes are in.,Descent
+Speed brakes closed.,Descent
+Speed brakes off.,Descent
+Speed brakes no longer deployed.,Descent
+Speed brakes fully retracted.,Descent
+Speed brakes back in position.,Descent
+"Lufthansa 245, descend at your discretion, maintain minimum speed 160 knots.",Descent
+"Descend at our discretion, minimum 160, Lufthansa 245.",Descent
+"Swiss 223, maintain minimum speed 165 knots until 5 miles.",Descent
+"Minimum 165 until 5 miles, Swiss 223.",Descent
+"Austrian 85, speed your discretion, report reducing.",Descent
+"Speed our discretion, will report reducing, Austrian 85.",Descent
+"Brussels 248, continue descent at pilot’s discretion, maintain 170 knots.",Descent
+"Pilot’s discretion, 170 knots, Brussels 248.",Descent
+"Eurowings 611, reduce speed to 160 knots, maintain until glide path intercept.",Descent
+"160 knots until glide path, Eurowings 611.",Descent
+"Discover 432, descend at your discretion, maintain minimum speed 162 knots.",Descent
+"Descend at our discretion, minimum 162, Discover 432.",Descent
+"Condor 214, maintain minimum speed 160 knots until 4 miles.",Descent
+"Minimum 160 until 4 miles, Condor 214.",Descent
+"Air Dolomiti 920, speed your discretion, report reducing.",Descent
+"Speed our discretion, will report reducing, Air Dolomiti 920.",Descent
+"Lufthansa Cargo 845, continue descent at pilot’s discretion, maintain 168 knots.",Descent
+"Pilot’s discretion, 168 knots, Lufthansa Cargo 845.",Descent
+"AeroLogic 256, reduce speed to 165 knots, maintain until glide path intercept.",Descent
+"165 knots until glide path, AeroLogic 256.",Descent
+ATC instructs descent to level 110,Descent
+Aircraft descending through level 180 feet,Descent
+ATC instructs descent to flight level 110,Descent
+Aircraft descending through flight level 180 feet,Descent
+"Eurowings, one, Hotel Romeo, winner, radar contact, descent, flight level 130.",Descent
+"Descent level 130, your wings, one, Hotel Romeo.",Descent
+"Lufthansa 456, Munich Control, descend to flight level 240",Descent
+"Descend to flight level 240, Lufthansa 456",Descent
+"SWISS 789, descend to flight level 190",Descent
+"Descend to flight level 190, SWISS 789",Descent
+"Okay.. Lufthansa 06, thank you, passing over 250, descending 220.",Descent
+Aircraft intercepts ILS localizer,Approach
+Landing gear extended,Approach
+Flaps set to 15 degrees,Approach
+Aircraft established on glide slope,Approach
+Final approach checklist completed,Approach
+Pilot confirms runway in sight,Approach
+Aircraft descending through 1000 feet AGL,Approach
+Autopilot disengaged on short final,Approach
+Aircraft stabilized for landing,Approach
+Speed adjusted to Vref during approach,Approach
+Passing 10000 feet in descent,Approach
+Established on localizer,Approach
+Glideslope intercept,Approach
+Final approach course established,Approach
+Cleared for ILS approach,Approach
+Gear down for landing,Approach
+Final approach fix inbound,Approach
+Stabilized on approach,Approach
+Passing outer marker,Approach
+"Localizer alive, glideslope capture",Approach
+Minimums callout,Approach
+Approach checklist completed,Approach
+Visual with runway,Approach
+Landing checklist completed,Approach
+"Okay, approach checklist",Approach
+"Glideslope, localizer blue, Ketsri, Dole, AP1 and 0",Approach
+"Glideslope, localizer blue, Ketsri, Dole, AP one and zero",Approach
+"Glideslope star, lock star",Approach
+"Ketsri, single",Approach
+Flaps 2.,Approach
+"Flaps 2, Speed checked",Approach
+Speed checked  Flaps 2.,Approach
+Flaps two,Approach
+"Flaps two, Speed checked",Approach
+"Speed checked,  Flaps two.",Approach
+"[MASK], established, ILS runway [MASK]",Approach
+Flaps 2.,Approach
+Flaps five.,Approach
+Altimeters.,Approach
+"American twenty one ninety-seven, reduce your final approach speed.",Approach
+Flaps twenty.,Approach
+"Speed checks, flaps twenty.",Approach
+Flaps 20.,Approach
+"Speed checks, 20.",Approach
+"Runway one six right, clear to land.",Approach
+"Clear to land,",Approach
+Gear down.,Approach
+Landing gear down.,Approach
+"Checklist down to flaps, cabin, secure altimeters, speedbrake armed, landing gear, down, check, flaps to go.",Approach
+Speed check flaps twenty-five.,Approach
+Speed check flaps 25.,Approach
+Speed check flaps twenty five.,Approach
+Flaps thirty.,Approach
+Speed check flaps thirty.,Approach
+Complete landing checklist.,Approach
+Approaching minimums,Approach
+Minimums,Approach
+Intercepting localizer runway 27L,Approach
+"Glideslope captured, 1500 feet AGL",Approach
+"Localizer centered, approaching glide path",Approach
+"Passing 2000 feet, stable approach",Approach
+"Runway 16R in sight, continuing approach",Approach
+Cleared visual approach runway 34,Approach
+Established on RNAV approach,Approach
+Passing final approach fix,Approach
+"Autopilot off, manual control",Approach
+"Speed 140 knots, on glide path",Approach
+"Passing 1000 feet, approach stable",Approach
+Runway environment in sight,Approach
+Continuing below decision height,Approach
+Landing clearance received,Approach
+Full landing configuration set,Approach
+Speed brakes armed,Approach
+"Passing 500 feet, on course",Approach
+Approaching decision altitude,Approach
+Runway lights in sight,Approach
+Final approach speed stabilized,Approach
+"Munich Approach, Lufthansa 456, FL 80, with information Q, inbound from north",Approach
+"Descend to 4000 feet, QNH 1012, vectors ILS 26L, Lufthansa 456",Approach
+"SWISS 789, turn left heading 210, intercept localizer runway 26L",Approach
+"Left heading 210, intercept localizer 26L, SWISS 789",Approach
+"Austrian Airlines 112, reduce speed to 180 knots, maintain 4000 feet until established",Approach
+"Reduce speed to 180 knots, maintain 4000 feet, Austrian Airlines 112",Approach
+"Brussels Airlines 334, established localizer runway 26L",Approach
+"Brussels Airlines 334, cleared ILS approach runway 26L, maintain 3000 feet until glidepath interception",Approach
+"Cleared ILS approach runway 26L, maintain 3000 feet, Brussels Airlines 334",Approach
+"Eurowings 567, turn right heading 270, descend to 3000 feet, QNH 1012",Approach
+"Right heading 270, descend to 3000 feet, QNH 1012, Eurowings 567",Approach
+"Lufthansa 891, report established on glidepath",Approach
+"Lufthansa 891, established on glidepath",Approach
+"Air France 223, cleared visual approach runway 26L, report field in sight",Approach
+"Cleared visual approach runway 26L, looking for field, Air France 223",Approach
+"British Airways 445, continue approach, preceding traffic on short final",Approach
+"Continue approach, British Airways 445",Approach
+"KLM 667, cleared RNAV approach runway 26R, maintain 2500 feet until FAF",Approach
+"Cleared RNAV approach runway 26R, maintain 2500 feet, KLM 667",Approach
+"Iberia 889, final runway 26L",Approach
+"Iberia 889, cleared to land runway 26L, wind 260 degrees 8 knots",Approach
+"Cleared to land runway 26L, Iberia 889",Approach
+"Turkish Airlines 556, go around, missed approach procedure",Approach
+"Going around, Turkish Airlines 556",Approach
+"SAS 778, maintain 2000 feet, vectoring for another approach",Approach
+"Maintaining 2000 feet, SAS 778",Approach
+"TAP Air Portugal 990, established on localizer, glidepath alive",Approach
+"TAP 990, cleared ILS approach runway 26L",Approach
+"Cleared ILS approach runway 26L, TAP 990",Approach
+"Lufthansa 234, reduce speed to 160 knots, traffic on 4 mile final",Approach
+"Reduce speed to 160 knots, Lufthansa 234",Approach
+"Eurowings Discover 116, turn right heading 240, intercept localizer runway 26R",Approach
+"Right heading 240, intercept localizer 26R, Eurowings Discover 116",Approach
+"SWISS 672, report established localizer runway 26L",Approach
+"SWISS 672, established localizer",Approach
+"Austrian Airlines 445, cleared approach, contact Tower 118.300",Approach
+"Cleared approach, contact Tower 118.300, Austrian Airlines 445",Approach
+"Brussels Airlines 223, maintain 3500 feet, sequencing traffic",Approach
+"Maintaining 3500 feet, Brussels Airlines 223",Approach
+"Eurowings 334, speed 170 knots, cleared ILS approach runway 26L",Approach
+"Speed 170 knots, cleared ILS 26L, Eurowings 334",Approach
+"Lufthansa 901, minimums 500 feet, runway in sight",Approach
+"Lufthansa 901, cleared visual approach runway 26L",Approach
+"Cleared visual approach runway 26L, Lufthansa 901",Approach
+"Air France 556, continue approach, landing clearance will be issued shortly",Approach
+"Continue approach, Air France 556",Approach
+"British Airways 778, report outer marker",Approach
+"British Airways 778, outer marker inbound",Approach
+"KLM 990, cleared circling approach runway 26L, maintain visual contact",Approach
+"Cleared circling approach runway 26L, KLM 990",Approach
+"Turkish Airlines 445, execute missed approach, climb to 3000 feet",Approach
+"Going around, climbing to 3000 feet, Turkish Airlines 445",Approach
+"SAS 667, cleared for the approach, maintain 2000 feet until established",Approach
+"Cleared for approach, maintain 2000 feet, SAS 667",Approach
+"Lufthansa 112, turn left heading 180, base leg runway 26L",Approach
+"Left heading 180, base leg, Lufthansa 112",Approach
+"SWISS 889, final approach speed 140 knots",Approach
+"Final approach speed 140 knots, SWISS 889",Approach
+"Austrian Airlines 334, report field in sight",Approach
+"Austrian Airlines 334, field in sight",Approach
+"Eurowings 567, cleared contact approach, maintain visual separation",Approach
+"Cleared contact approach, Eurowings 567",Approach
+"Lufthansa 778, on long final runway 26L, number 2 to land",Approach
+"Lufthansa 778, continue, traffic on short final",Approach
+"Continue approach, Lufthansa 778",Approach
+"Air France 990, report 5 mile final",Approach
+"Air France 990, 5 mile final",Approach
+"British Airways 223, cleared ILS approach runway 26L, maintain 2500 feet until glidepath",Approach
+"Cleared ILS 26L, maintain 2500 feet, British Airways 223",Approach
+"KLM 445, established on localizer, descending through 2000 feet",Approach
+"KLM 445, cleared to land runway 26L, wind 270 degrees 10 knots",Approach
+"Cleared to land runway 26L, KLM 445",Approach
+"Turkish Airlines 778, going around, windshear on final",Approach
+"Turkish Airlines 778, roger, climb to 4000 feet, heading 360",Approach
+"Climbing to 4000 feet, heading 360, Turkish Airlines 778",Approach
+"SAS 112, cleared for the visual approach runway 26L, follow A320 on base leg",Approach
+"Cleared visual 26L, following traffic, SAS 112",Approach
+"Lufthansa 334, report established on final",Approach
+"Lufthansa 334, established final runway 26L",Approach
+"SWISS 556, cleared land runway 26L, caution wake turbulence preceding heavy aircraft",Approach
+"Cleared land runway 26L, SWISS 556",Approach
+"Austrian Airlines 778, short final runway 26L",Approach
+"Austrian Airlines 778, cleared to land runway 26L",Approach
+"Cleared to land, Austrian Airlines 778",Approach
+clear to land.,Approach
+Yeah. Gear down,Approach
+"3.2 miles from touchdown on profile, check.",Approach
+Approaching 25L.. Check.,Approach
+"Transponder on change, 4,000, 4,000, 4,000, QNH.",Approach
+"After Charlie Delta Papa, we require start reducing speed now.",Approach
+"Eurowings 1 Hostel Romeo, descend altitude 5000 feet, QNH 1016, turn right heading 240 degrees.",Approach
+"Right heading 240 and we descent, altitude 5000, QNH 1016, Eurowings 1 Hotel Romeo",Approach
+"JetBlue 234, descent altitude 4000 feet on QNH 1013.",Approach
+"Lufthansa 456, Munich Approach, descend to 4000 feet, QNH 1012, vectoring ILS runway 26L",Approach
+"Alitalia 123, blue. Set QNH 1012.",Approach
+"QNH 1013, cross check, passing 8000 feet.",Approach
+"Descend to 6000, QNH 1014",Approach
+"Passing transition level, set local QNH",Approach
+"Brussels Airlines 334, descend to 9000 feet, QNH 1013",Approach
+"Descend to  9000 feet, QNH 1013, Brussels Airlines 334",Approach
+"Lufthansa 4 Alpha Tango, descend altitude 6000 feet, QNH 1017, turn left heading 210 degrees.",Approach
+"Left heading 210 and we descend, altitude 6000, QNH 1017, Lufthansa 4 Alpha Tango",Approach
+"Lufthansa 9 Charlie Mike, maintain altitude 4000 feet, reduce speed to 180 knots.",Approach
+"Maintaining 4000 feet and reducing to 180 knots, Lufthansa 9 Charlie Mike",Approach
+"Lufthansa 2 Delta Sierra, descend altitude 5000 feet, QNH 1015, turn right heading 250 degrees.",Approach
+"Right heading 250 and descending 5000 feet, QNH 1015, Lufthansa 2 Delta Sierra",Approach
+"Lufthansa 7 Bravo Kilo, continue descent to 3000 feet, QNH 1018, report established on localizer.",Approach
+"Descending 3000 feet, QNH 1018, will report localizer, Lufthansa 7 Bravo Kilo",Approach
+"Lufthansa 3 Echo Juliet, descend altitude 7000 feet, turn left heading 180 degrees for vectors to ILS.",Approach
+"Left heading 180, descending 7000, Lufthansa 3 Echo Juliet",Approach
+"If you want to, you can start with the approach checklist.",Approach
+"Yes sir, approach, bar reference.",Approach
+"QNH 1016.. QNH 1016, seat belts.",Approach
+"Lufthansa 4 Alpha Sierra, proceed heading 270 degrees, cleared ILS 2 approach, runway 24 left.",Approach
+"Heading 270 degrees and cleared ILS 2 for runway 24 left, Lufthansa 4 Alpha Sierra.",Approach
+"Lufthansa 8 Bravo Juliet, turn left heading 190 degrees, descend altitude 4000 feet, QNH 1015.",Approach
+"Left heading 190, descending 4000 feet QNH 1015, Lufthansa 8 Bravo Juliet.",Approach
+"Lufthansa 2 Charlie Kilo, reduce speed 180 knots, maintain altitude 3000 feet.",Approach
+"Reducing to 180 knots and maintaining 3000 feet, Lufthansa 2 Charlie Kilo.",Approach
+"Lufthansa 7 Delta Mike, cleared localizer approach runway 22, report established.",Approach
+"Cleared localizer 22 and will report established, Lufthansa 7 Delta Mike.",Approach
+"Lufthansa 5 Echo November, turn right heading 310 degrees, descend altitude 3500 feet.",Approach
+"Right heading 310, descending 3500 feet, Lufthansa 5 Echo November.",Approach
+"OK, Joachim, we descend altitude 3000 feet, we turn right heading 265 and we clear ILS approach runway 2 for left.",Approach
+Then gear down and clear auto flight,Approach
+"QNH 1016, Etihad 901, turn right heading 330.",Approach
+"Right heading 330, Etihad 901.",Approach
+"QNH 1016.. 1016 set, passing 6,000, descending 5,000.",Approach
+"Frankfurt, arrival, 11T, cleared for 119R.",Approach
+Aircraft touches down on runway,Landing
+Thrust reversers deployed,Landing
+Aircraft decelerating on runway,Landing
+Vacating runway at taxiway exit,Landing
+Aircraft taxiing to gate after landing,Landing
+Ground crew providing marshalling signals,Landing
+Parking brake set at gate,Landing
+Passengers remain seated during taxi-in,Landing
+Engines shut down at gate,Landing
+Aircraft door opened by crew,Landing
+"On glideslope, on localizer",Landing
+"Runway in sight, landing assured",Landing
+"50 feet, 40, 30, 20, 10",Landing
+Main gear touchdown,Landing
+Reverse thrust deployed,Landing
+Spoilers armed for landing,Landing
+Smooth touchdown achieved,Landing
+Decelerating on runway,Landing
+Cleared to exit via taxiway,Landing
+Vacating runway,Landing
+Landing roll complete,Landing
+Welcome to destination airport,Landing
+Aircraft safely on ground,Landing
+Braking action normal,Landing
+Engine power at idle for landing,Landing
+"50, 40, 30, 20, 10.",Landing
+"Fifty, forty, thirty, twenty, ten.",Landing
+"Speedbrake, reverse.",Landing
+"Retard, retard",Landing
+Retard,Landing
+"Spoiler, reverse",Landing
+Spoiler,Landing
+Brake low,Landing
+Manual breaking.,Landing
+Auto break off,Landing
+Vacate left via [MASK],Landing
+Vacate right via [MASK],Landing
+Speed breaks up,Landing
+Reverse thrust normal,Landing
+60 knots,Landing
+Sixty knots,Landing
+"Main gear contact, runway 27L",Landing
+Nose wheel touchdown,Landing
+Spoilers deployed automatically,Landing
+Reverse thrust selected,Landing
+Autobrakes engaged,Landing
+Decelerating through 80 knots,Landing
+"Passing 60 knots, exiting runway",Landing
+Taxiway Charlie 3 ahead,Landing
+Cleared to vacate via taxiway Bravo,Landing
+Turning off at high-speed exit,Landing
+Reverse thrust stowed,Landing
+Spoilers retracted,Landing
+"Autobrakes off, manual braking",Landing
+"Passing 40 knots, slowing",Landing
+Aircraft under tower control,Landing
+Contact ground point niner,Landing
+Switching to ground frequency,Landing
+All wheels on runway,Landing
+Positive runway contact,Landing
+Braking effectively,Landing
+Runway surface dry,Landing
+Good braking action reported,Landing
+Decelerating normally,Landing
+Passing 100 knots in landing roll,Landing
+"70 knots, maintaining centerline",Landing
+"50 knots, approaching taxiway",Landing
+"30 knots, preparing to turn off",Landing
+Exiting runway at next taxiway,Landing
+Cleared to gate via taxiway Mike,Landing
+Follow-me truck in sight,Landing
+Marshaller guiding to parking,Landing
+Approaching gate position,Landing
+Parking stand 45 ahead,Landing
+Chocks ready for placement,Landing
+Engines spooling down,Landing
+Cabin crew prepare for arrival,Landing
+Passengers remain seated,Landing
+Seatbelt sign remains on,Landing
+Parking checklist in progress,Landing
+Shutdown sequence initiated,Landing
+"Munich Tower, Lufthansa 456, final runway 26L",Landing
+"Lufthansa 456, cleared to land runway 26L, wind 260 degrees 10 knots",Landing
+"Cleared to land runway 26L, Lufthansa 456",Landing
+"SWISS 789, cleared to land runway 26L, wind 270 degrees 8 knots",Landing
+"Cleared to land runway 26L, SWISS 789",Landing
+"Austrian Airlines 112, cleared to land runway 26L, caution wake turbulence preceding heavy A380",Landing
+"Cleared to land runway 26L, Austrian Airlines 112",Landing
+"Brussels Airlines 334, cleared to land runway 26L, wind 250 degrees 12 knots",Landing
+"Cleared to land runway 26L, Brussels Airlines 334",Landing
+"Eurowings 567, cleared to land runway 26L, runway wet",Landing
+"Cleared to land runway 26L, Eurowings 567",Landing
+"Lufthansa 891, cleared to land runway 26L, wind variable 3 knots",Landing
+"Cleared to land runway 26L, Lufthansa 891",Landing
+"Air France 223, cleared to land runway 26L, no delay",Landing
+"Cleared to land runway 26L, Air France 223",Landing
+"British Airways 445, cleared to land runway 26L, wind 280 degrees 15 knots",Landing
+"Cleared to land runway 26L, British Airways 445",Landing
+"KLM 667, cleared to land runway 26L, braking action reported good",Landing
+"Cleared to land runway 26L, KLM 667",Landing
+"Iberia 889, cleared to land runway 26L, wind 265 degrees 5 knots",Landing
+"Cleared to land runway 26L, Iberia 889",Landing
+"Turkish Airlines 556, cleared to land runway 26L, caution birds near runway",Landing
+"Cleared to land runway 26L, Turkish Airlines 556",Landing
+"SAS 778, cleared to land runway 26L, wind 255 degrees 20 knots",Landing
+"Cleared to land runway 26L, SAS 778",Landing
+"TAP Air Portugal 990, cleared to land runway 26L, preceding aircraft vacating runway",Landing
+"Cleared to land runway 26L, TAP 990",Landing
+"Lufthansa 234, cleared to land runway 26L, wind gusting 25 knots",Landing
+"Cleared to land runway 26L, Lufthansa 234",Landing
+"Eurowings Discover 116, cleared to land runway 26L, no reported braking action",Landing
+"Cleared to land runway 26L, Eurowings Discover 116",Landing
+"SWISS 672, cleared to land runway 26L, wind 275 degrees 18 knots",Landing
+"Cleared to land runway 26L, SWISS 672",Landing
+"Austrian Airlines 445, cleared to land runway 26L, runway 26L",Landing
+"Cleared to land runway 26L, Austrian Airlines 445",Landing
+"Brussels Airlines 223, cleared to land runway 26L, traffic holding short",Landing
+"Cleared to land runway 26L, Brussels Airlines 223",Landing
+"Eurowings 334, cleared to land runway 26L, wind calm",Landing
+"Cleared to land runway 26L, Eurowings 334",Landing
+"Lufthansa 901, cleared to land runway 26L, report vacated",Landing
+"Cleared to land runway 26L, will report vacated, Lufthansa 901",Landing
+"Air France 556, cleared to land runway 26L, crosswind 15 knots",Landing
+"Cleared to land runway 26L, Air France 556",Landing
+"British Airways 778, cleared to land runway 26L, wind 260 degrees 10 knots gusting 20",Landing
+"Cleared to land runway 26L, British Airways 778",Landing
+"KLM 990, cleared to land runway 26L, runway conditions dry",Landing
+"Cleared to land runway 26L, KLM 990",Landing
+"Turkish Airlines 445, cleared to land runway 26L, continue approach",Landing
+"Cleared to land runway 26L, Turkish Airlines 445",Landing
+"SAS 667, cleared to land runway 26L, wind 270 degrees 12 knots",Landing
+"Cleared to land runway 26L, SAS 667",Landing
+"Lufthansa 112, cleared to land runway 26L, caution construction equipment right side",Landing
+"Cleared to land runway 26L, Lufthansa 112",Landing
+"SWISS 889, cleared to land runway 26L, wind 285 degrees 5 knots",Landing
+"Cleared to land runway 26L, SWISS 889",Landing
+"Austrian Airlines 334, cleared to land runway 26L, traffic on parallel runway",Landing
+"Cleared to land runway 26L, Austrian Airlines 334",Landing
+"Eurowings 567, cleared to land runway 26L, report when clear",Landing
+"Cleared to land runway 26L, will report clear, Eurowings 567",Landing
+"Lufthansa 778, cleared to land runway 26L, wind 275 degrees 15 knots",Landing
+"Cleared to land runway 26L, Lufthansa 778",Landing
+"Air France 990, cleared to land runway 26L, no tailwind",Landing
+"Cleared to land runway 26L, Air France 990",Landing
+"British Airways 223, cleared to land runway 26L, runway lights on high intensity",Landing
+"Cleared to land runway 26L, British Airways 223",Landing
+"KLM 445, cleared to land runway 26L, wind 265 degrees 8 knots",Landing
+"Cleared to land runway 26L, KLM 445",Landing
+"Turkish Airlines 778, cleared to land runway 26L, preceding aircraft clear of runway",Landing
+"Cleared to land runway 26L, Turkish Airlines 778",Landing
+"SAS 112, cleared to land runway 26L, wind 260 degrees 10 knots",Landing
+"Cleared to land runway 26L, SAS 112",Landing
+"Lufthansa 334, cleared to land runway 26L, caution wet patches on runway",Landing
+"Cleared to land runway 26L, Lufthansa 334",Landing
+"SWISS 556, cleared to land runway 26L, wind 270 degrees 6 knots",Landing
+"Cleared to land runway 26L, SWISS 556",Landing
+"Austrian Airlines 778, cleared to land runway 26L, runway 26L cleared to land",Landing
+"Cleared to land runway 26L, Austrian Airlines 778",Landing
+Land.. Minimum.. Continue,Landing
+200.. 100.. Runway 4069,Landing
+Spoiler alert. Reverse green.,Landing
+Spoiler deployed.,Landing
+Spoilers,Landing
+Spoilers are being deployed,Landing
+Spoilers are engaged.,Landing
+Spoilers are active,Landing
+Spoilers are actived,Landing
+50.. 40.. 30.,Landing
+20.. 10.. Speed brakes up.,Landing
+50.. 40.,Landing
+30.. 20.. 10.. Speed brakes up.,Landing
+"Fifty, forty, thirty.",Landing
+"Twenty, ten.. Speed brakes up.",Landing
+"Fifty, forty.",Landing
+thirty.. Twenty.. ten.. Speed brakes up.,Landing
+Approaching Minimums.. Minimums.,Landing
+Continue.. 100.. 50.,Landing
+40.. 30.. 20.. 10..,Landing
+Turn the brakes.,Landing
+500. Stable.. Check.,Landing
+1000 feet.. checked,Landing
+one thousand feet.. checked.,Landing
+500 feet.. checked,Landing
+500.. checked,Landing
+five hundred feet checked,Landing
+Cleared to taxi to gate via taxiway alpha,Taxi-in
+Vacating runway and proceeding to terminal,Taxi-in
+Following ground control instructions to gate,Taxi-in
+Taxiing at slow speed to parking stand,Taxi-in
+Passing other aircraft on taxiway to gate,Taxi-in
+Marshaller guiding aircraft to parking position,Taxi-in
+Approaching assigned gate number [MASK],Taxi-in
+Ground crew waiting at parking stand,Taxi-in
+Turning onto final approach to gate,Taxi-in
+Stopping at parking position with guidance,Taxi-in
+"OK, we don't have the gate",Taxi-in
+Contact ground,Taxi-in
+"Ground point [MASK], the other side",Taxi-in
+"Ground on the other side, [MASK]",Taxi-in
+What's your gate?,Taxi-in
+"[MASK], what's your gate?",Taxi-in
+"We've got the gate, we have the contact",Taxi-in
+"[MASK], [MASK] Ground, which gate?",Taxi-in
+After landing checklist,Taxi-in
+After landing checklist complete,Taxi-in
+"Cross [MASK], hold short",Taxi-in
+Just hold short of Bravo for a moment,Taxi-in
+"Taxi to gate Alpha [MASK], [MASK].",Taxi-in
+Holding short of gate [MASK].,Taxi-in
+Switching to company.,Taxi-in
+Can we get the company frequency?,Taxi-in
+"Tower, [MASK], our gate is [MASK]",Taxi-in
+"Tower, [MASK], gate is Sierra [MASK]",Taxi-in
+Stand is [MASK],Taxi-in
+Cleared to gate via taxiway Bravo and Charlie,Taxi-in
+"Vacated runway, contacting ground control",Taxi-in
+Proceeding to stand 45 via inner taxiway,Taxi-in
+Following yellow taxi lines to terminal,Taxi-in
+Marshaller visible at gate position,Taxi-in
+"Approaching gate B12, slowing to stop",Taxi-in
+Ground crew with wands guiding parking,Taxi-in
+Holding short of taxiway Delta for traffic,Taxi-in
+Crossing runway 31L with tower approval,Taxi-in
+Passing midfield terminal building,Taxi-in
+Taxi speed 10 knots in ramp area,Taxi-in
+"Approaching concourse C, gate C27",Taxi-in
+"Ground control, request gate assignment",Taxi-in
+Standby for gate availability,Taxi-in
+Gate change to B18 approved,Taxi-in
+Follow the blue follow-me truck,Taxi-in
+Marshaller signaling stop position,Taxi-in
+Parking brakes set at gate,Taxi-in
+Chocks being placed,Taxi-in
+Ground power unit connected,Taxi-in
+Passenger bridge moving into position,Taxi-in
+Baggage carts approaching aircraft,Taxi-in
+Fuel truck standing by at gate,Taxi-in
+Cabin crew preparing for arrival,Taxi-in
+Doors to manual for arrival,Taxi-in
+Parking checklist in progress,Taxi-in
+All systems normal after landing,Taxi-in
+APU start for ground operations,Taxi-in
+Engines shutdown sequence initiated,Taxi-in
+Ground services connected at gate,Taxi-in
+"Vacated runway, contacting ground",Taxi-in
+Taxiing to gate via taxiway Bravo,Taxi-in
+Following yellow taxi lines to terminal,Taxi-in
+Proceeding to stand via inner taxiway,Taxi-in
+Taxi speed 10 knots in ramp area,Taxi-in
+Crossing runway 12 with approval,Taxi-in
+Hold short of taxiway Delta for traffic,Taxi-in
+Follow-me truck in sight,Taxi-in
+Marshaller visible at gate position,Taxi-in
+Approaching concourse C,Taxi-in
+Passing midfield terminal building,Taxi-in
+"Ground control, request gate assignment",Taxi-in
+Gate change to B18 approved,Taxi-in
+Standby for gate availability,Taxi-in
+"Taxi via Foxtrot, Golf, Juliet",Taxi-in
+Continue via Foxtrot to stand 17,Taxi-in
+Crossing runway at Foxtrot as briefed,Taxi-in
+Take next left onto Golf,Taxi-in
+Follow blue follow-me truck,Taxi-in
+Taxi instructions acknowledged,Taxi-in
+"Munich Tower, Lufthansa 456, runway vacated",Taxi-in
+"Lufthansa 456, contact Ground 121.700",Taxi-in
+"Contact Ground 121.700, Lufthansa 456",Taxi-in
+"Munich Ground, Lufthansa 456, runway vacated",Taxi-in
+"Lufthansa 456, Munich Ground, taxi to stand A12 via taxiway Bravo, Charlie, Mike",Taxi-in
+"Taxi to stand A12 via Bravo, Charlie, Mike, Lufthansa 456",Taxi-in
+"SWISS 789, taxi to gate B7 via taxiway Alpha, hold short of runway 08R",Taxi-in
+"Taxi to gate B7 via Alpha, hold short runway 08R, SWISS 789",Taxi-in
+"Austrian Airlines 112, follow the yellow follow-me truck to stand C5",Taxi-in
+"Following follow-me truck to stand C5, Austrian Airlines 112",Taxi-in
+"Brussels Airlines 334, taxi via taxiway Delta, Echo to remote stand 45",Taxi-in
+"Taxi via Delta, Echo to stand 45, Brussels Airlines 334",Taxi-in
+"Eurowings 567, cross runway 25L at taxiway Golf, then to stand D8",Taxi-in
+"Cross runway 25L at Golf, to stand D8, Eurowings 567",Taxi-in
+"Lufthansa 891, taxi to maintenance area via taxiway Juliet, Kilo",Taxi-in
+"Taxi to maintenance via Juliet, Kilo, Lufthansa 891",Taxi-in
+"Air France 223, hold position, give way to departing traffic",Taxi-in
+"Holding position, Air France 223",Taxi-in
+"British Airways 445, taxi speed 10 knots in apron area",Taxi-in
+"Taxi speed 10 knots, British Airways 445",Taxi-in
+"KLM 667, continue taxi, follow Lufthansa A321 to terminal",Taxi-in
+"Continue taxi, following Lufthansa A321, KLM 667",Taxi-in
+"Iberia 889, turn left next intersection onto taxiway Lima",Taxi-in
+"Turn left onto Lima, Iberia 889",Taxi-in
+"Turkish Airlines 556, taxi via inner taxiway to gate A15",Taxi-in
+"Taxi via inner taxiway to A15, Turkish Airlines 556",Taxi-in
+"SAS 778, hold short of taxiway Charlie for crossing traffic",Taxi-in
+"Hold short of Charlie, SAS 778",Taxi-in
+"TAP Air Portugal 990, gate change to B22, taxi via taxiway Foxtrot",Taxi-in
+"Gate change to B22 via Foxtrot, TAP 990",Taxi-in
+"Lufthansa 234, marshaller waiting at stand C10",Taxi-in
+"Marshaller at C10, Lufthansa 234",Taxi-in
+"Eurowings Discover 116, taxi to de-icing pad 3 first",Taxi-in
+"Taxi to de-icing pad 3, Eurowings Discover 116",Taxi-in
+"SWISS 672, proceed to remote parking stand 67",Taxi-in
+"Proceed to stand 67, SWISS 672",Taxi-in
+"Austrian Airlines 445, taxi via high-speed taxiway November",Taxi-in
+"Taxi via November, Austrian Airlines 445",Taxi-in
+"Brussels Airlines 223, give way to emergency vehicle on your right",Taxi-in
+"Give way to emergency vehicle, Brussels Airlines 223",Taxi-in
+"Eurowings 334, taxi via outer perimeter taxiway to cargo area",Taxi-in
+"Taxi via perimeter to cargo, Eurowings 334",Taxi-in
+"Lufthansa 901, follow ground staff instructions to hard stand",Taxi-in
+"Following ground staff, Lufthansa 901",Taxi-in
+"Air France 556, taxi to VIP terminal via taxiway Papa",Taxi-in
+"Taxi to VIP via Papa, Air France 556",Taxi-in
+"British Airways 778, hold position at holding point Bravo",Taxi-in
+"Hold at Bravo, British Airways 778",Taxi-in
+"KLM 990, continue present heading to gate A8",Taxi-in
+"Continue present heading to A8, KLM 990",Taxi-in
+"Turkish Airlines 445, taxi via shortest route to stand B15",Taxi-in
+"Taxi shortest route to B15, Turkish Airlines 445",Taxi-in
+"SAS 667, expedite taxi, aircraft following",Taxi-in
+"Expediting taxi, SAS 667",Taxi-in
+"Lufthansa 112, taxi with caution, construction work ahead",Taxi-in
+"Taxiing with caution, Lufthansa 112",Taxi-in
+"SWISS 889, turn right next intersection onto taxiway Quebec",Taxi-in
+"Turn right onto Quebec, SWISS 889",Taxi-in
+"Austrian Airlines 334, follow the blue follow-me vehicle",Taxi-in
+"Following blue follow-me vehicle, Austrian Airlines 334",Taxi-in
+"Eurowings 567, taxi via taxiway Sierra, Romeo to gate D12",Taxi-in
+"Taxi via Sierra, Romeo to D12, Eurowings 567",Taxi-in
+"Lufthansa 778, hold short of active runway 26L",Taxi-in
+"Hold short of runway 26L, Lufthansa 778",Taxi-in
+"Air France 990, cross runway 08R at taxiway Tango",Taxi-in
+"Cross runway 08R at Tango, Air France 990",Taxi-in
+"British Airways 223, taxi to hangar 4 via taxiway Uniform",Taxi-in
+"Taxi to hangar 4 via Uniform, British Airways 223",Taxi-in
+"KLM 445, proceed direct to gate C7, no delay",Taxi-in
+"Proceed direct to C7, KLM 445",Taxi-in
+"Turkish Airlines 778, taxi via parallel taxiway to international terminal",Taxi-in
+"Taxi via parallel to international terminal, Turkish Airlines 778",Taxi-in
+"SAS 112, hold position for aircraft pushback",Taxi-in
+"Holding for pushback, SAS 112",Taxi-in
+"Lufthansa 334, continue to stand A5, marshaller guiding",Taxi-in
+"Continue to A5, Lufthansa 334",Taxi-in
+"SWISS 556, taxi via taxiway Victor, Whiskey to business aviation",Taxi-in
+"Taxi via Victor, Whiskey to business aviation, SWISS 556",Taxi-in
+"Austrian Airlines 778, follow taxiway centerline to gate B9",Taxi-in
+"Follow centerline to B9, Austrian Airlines 778",Taxi-in
+After landing checklist.,Taxi-in
+"First left, Echo 1, 4.",Taxi-in
+"CR11.. OK.. OK, after landing checklist, main deck flow is normal.",Taxi-in
+After landing checklist complete.,Taxi-in
+"412.454, roger.. Taxi Lima 3.",Taxi-in
+"Lima 3, 412.454.",Taxi-in
+Clear light. Clear left,Taxi-in
+"Right side clear, left side clear.",Taxi-in
+"Alaska 632. Ground from A631, we are at PAPA, just cleared runway 16L",Taxi-in
+"Ground, Air Dolomiti 184, from stand G2, at PAPA, ready for taxi, runway 16L.",Taxi-in
+"Ground, Brussels 213, from gate F3, at PAPA, ready for taxi, runway 16L.",Taxi-in
+"Ground, Austrian 66, from stand E8, at PAPA, ready to taxi, runway 16L.",Taxi-in
+"Ground, Swiss 117, from gate D14, at PAPA, requesting taxi, runway 16L.",Taxi-in
+"Alaska 632. Ground from A631, we are at PAPA, just cleared runway 16L",Taxi-in
+"Ground, Air Dolomiti 184, from stand G2, at PAPA, ready for taxi, runway 16R.",Taxi-in
+"Ground, Brussels 213, from gate F3, at PAPA, ready for taxi, runway 17C.",Taxi-in
+"Ground, Austrian 66, from stand E8, at PAPA, ready to taxi, runway 15R.",Taxi-in
+"Ground, Lufthansa 431, from gate A21, at PAPA, ready to taxi, runway 17L.",Taxi-in
+"Ground, Lufthansa CityLine 2487, from stand B12, at PAPA, ready for taxi, runway 16R.",Taxi-in
+"Ground, Eurowings 92F, from stand C5, holding short at PAPA, ready to taxi for 16L.",Taxi-in
+"Ground, Swiss 117, from gate D14, at PAPA, requesting taxi, runway 17R.",Taxi-in
+"Chocks in position, parking brake set",Parking
+Engines shutdown at gate position,Parking
+Passenger disembarkation in progress,Parking
+Ground power unit connected,Parking
+Baggage unloading commenced,Parking
+Aircraft secured at gate,Parking
+Jet bridge connected to aircraft,Parking
+Post flight checks being performed,Parking
+Crew completing parking checklist,Parking
+Refueling process beginning at stand,Parking
+Taxi lights off,Parking
+Engine 1 is off.,Parking
+Engine one is off.,Parking
+Taxi lights off,Parking
+Parking checklist please,Parking
+Engines off,Parking
+Fuel pumps off,Parking
+Yellow electric pump off,Parking
+Parking checklist complete,Parking
+Beacon is off.,Parking
+"Okay crew, all doors are unlocked",Parking
+Connect the ground power.,Parking
+Connecting the ground power.,Parking
+Parking brake or chocks,Parking
+Chocks are in position,Parking
+We have chocks in place,Parking
+We have chock in place,Parking
+Shutdown checklist,Parking
+Hydraulic pump,Parking
+Shutdown checklist complete,Parking
+Shutdown checklist completed,Parking
+Parking brake set at gate,Parking
+Chocks being placed,Parking
+Ground power unit connected,Parking
+Passenger bridge moving into position,Parking
+Baggage carts approaching aircraft,Parking
+Fuel truck standing by at gate,Parking
+Engines shutdown sequence initiated,Parking
+APU running for ground operations,Parking
+Ground services connected at gate,Parking
+Parking checklist in progress,Parking
+Parking brake or chocks?,Parking
+Parking brake is set,Parking
+Engines off,Parking
+Fuel pumps off,Parking
+Yellow electric pump off,Parking
+Parking checklist complete,Parking
+Chocks are set,Parking
+All doors in park,Parking
+Ground crew signaling stop position,Parking
+Marshaller guiding to final position,Parking
+Approaching stand 45,Parking
+Stand 17 ahead,Parking
+Turning onto final parking position,Parking
+Stopping at gate position,Parking
+Parking guidance system active,Parking
+Reducing to walking speed,Parking
+Six knots maximum for parking,Parking
+Final alignment with gate,Parking
+Cabin crew preparing for arrival,Parking
+Doors to manual for arrival,Parking
+Ground handling equipment in position,Parking
+Catering trucks approaching,Parking
+Cleaning crew standing by,Parking
+Maintenance crew ready for inspection,Parking
+Parking stand confirmed,Parking
+Gate B12 assigned,Parking
+Stand 30 confirmed,Parking
+Hotel One parking position,Parking
+Final parking checks complete,Parking
+Aircraft secured at gate,Parking
+External power established,Parking
+Ground air connected,Parking
+All systems on ground power,Parking
+Parking sequence completed,Parking
+Ground crew saluting,Parking
+Marshaller signaling shutdown,Parking
+Parking procedure finished,Parking
+Aircraft in parking configuration,Parking
+Final shutdown checks done,Parking
+"Munich Ground, Lufthansa 456, approaching stand A12",Parking
+"Lufthansa 456, roger, marshaller guiding to parking position",Parking
+"Marshaller guiding, Lufthansa 456",Parking
+"SWISS 789, approaching gate B7, marshaller in sight",Parking
+"SWISS 789, roger, parking stand B7, chocks will be placed",Parking
+"Parking stand B7, SWISS 789",Parking
+"Austrian Airlines 112, at stand C5, ready for shutdown",Parking
+"Austrian Airlines 112, shutdown approved, ground power available",Parking
+"Shutdown approved, Austrian Airlines 112",Parking
+"Brussels Airlines 334, in position remote stand 45",Parking
+"Brussels Airlines 334, chocks being placed, ground services connected",Parking
+"Chocks placed, Brussels Airlines 334",Parking
+"Eurowings 567, at stand D8, parking brake set",Parking
+"Eurowings 567, roger, passenger bridge moving into position",Parking
+"Passenger bridge moving, Eurowings 567",Parking
+"Lufthansa 891, maintenance area, engines shutdown",Parking
+"Lufthansa 891, roger, maintenance crew approaching",Parking
+"Maintenance crew approaching, Lufthansa 891",Parking
+"Air France 223, at gate A15, shutdown complete",Parking
+"Air France 223, ground power connected, baggage carts approaching",Parking
+"Ground power connected, Air France 223",Parking
+"British Airways 445, stand B22, parking checklist complete",Parking
+"British Airways 445, fuel truck standing by, catering inbound",Parking
+"Fuel truck standing by, British Airways 445",Parking
+"KLM 667, at stand C10, marshaller signaling stop",Parking
+"KLM 667, position correct, chocks coming",Parking
+"Position correct, KLM 667",Parking
+"Iberia 889, de-icing pad 3, ready for parking",Parking
+"Iberia 889, hold position, de-icing crew approaching",Parking
+"Holding position, Iberia 889",Parking
+"Turkish Airlines 556, remote stand 67, in parking position",Parking
+"Turkish Airlines 556, ground equipment clear, safe for shutdown",Parking
+"Ground equipment clear, Turkish Airlines 556",Parking
+"SAS 778, at gate A8, parking brake set",Parking
+"SAS 778, passenger bridge connected, ground services established",Parking
+"Passenger bridge connected, SAS 778",Parking
+"TAP Air Portugal 990, hard stand parking complete",Parking
+"TAP 990, roger, ground power and air conditioning connected",Parking
+"Ground services connected, TAP 990",Parking
+"Lufthansa 234, VIP terminal, shutdown in progress",Parking
+"Lufthansa 234, VIP handlers standing by",Parking
+"VIP handlers standing by, Lufthansa 234",Parking
+"Eurowings Discover 116, cargo area, parking position",Parking
+"Eurowings Discover 116, cargo handlers ready, shutdown approved",Parking
+"Shutdown approved, Eurowings Discover 116",Parking
+"SWISS 672, business aviation, at parking stand",Parking
+"SWISS 672, marshaller signals parking complete",Parking
+"Parking complete, SWISS 672",Parking
+"Austrian Airlines 445, gate B15, all engines shutdown",Parking
+"Austrian Airlines 445, ground operations complete",Parking
+"Ground operations complete, Austrian Airlines 445",Parking
+"Brussels Airlines 223, stand D12, parking checklist finished",Parking
+"Brussels Airlines 223, all services connected, aircraft secure",Parking
+"Aircraft secure, Brussels Airlines 223",Parking
+"Eurowings 334, hangar 4, positioned for maintenance",Parking
+"Eurowings 334, maintenance crew has the aircraft",Parking
+"Maintenance crew has aircraft, Eurowings 334",Parking
+"Lufthansa 901, international terminal, parking complete",Parking
+"Lufthansa 901, disembarkation in progress",Parking
+"Disembarkation in progress, Lufthansa 901",Parking
+"Air France 556, gate C7, shutdown procedure complete",Parking
+"Air France 556, all ground handlers clear",Parking
+"All handlers clear, Air France 556",Parking
+"British Airways 778, stand A5, final parking checks",Parking
+"British Airways 778, aircraft secured at gate",Parking
+"Aircraft secured, British Airways 778",Parking
+"KLM 990, remote stand 23, parking confirmed",Parking
+"KLM 990, ground services established, safe to disembark",Parking
+"Safe to disembark, KLM 990",Parking
+"Turkish Airlines 445, gate B9, parking sequence complete",Parking
+"Turkish Airlines 445, all doors to manual for arrival",Parking
+"Doors to manual, Turkish Airlines 445",Parking
+"SAS 667, maintenance parking, shutdown complete",Parking
+"SAS 667, engineers approaching for inspection",Parking
+"Engineers approaching, SAS 667",Parking
+"Lufthansa 112, stand A12, parking procedure finished",Parking
+"Lufthansa 112, aircraft in parking configuration",Parking
+"Aircraft in parking configuration, Lufthansa 112",Parking
+"SWISS 889, gate C5, all systems on ground power",Parking
+"SWISS 889, external power established",Parking
+"External power established, SWISS 889",Parking
+"Austrian Airlines 778, stand D8, final shutdown checks",Parking
+"Austrian Airlines 778, parking brake set, chocks in position",Parking
+"Parking brake set, chocks in position, Austrian Airlines 778",Parking
+Ground connected. Good morning,Parking
+Ground connected.,Parking
+Beacon is turned off.,Parking
+Beacon light is off.,Parking
+Beacon turned off,Parking
+Very nice.. Chucks in position.,Parking
+Chucks are set in positions,Parking
+Can we get power?,Parking
+Can you please connect the power?,Parking
+External power available in 1 minute.,Parking
+Power available within a few moments.,Parking
+Power available shortly,Parking
+Turning off the APU.,Parking
+"Okay, then we are turining off the APU.",Parking
+Engine shut down right.,Parking
+Engine shut down left.,Parking
+Engine shut down one.,Parking
+Engine shut down two.,Parking
+Engine shut down 1.,Parking
+Engine shut down 2.,Parking
+PDF data that needs to be edited,Conversation
+And you calculated the performance for that I assume?,Conversation
+"Okay, let's see what changed.",Conversation
+"Okay, let's do that.",Conversation
+Let's see. Let's see what we get.,Conversation
+Perfect. So I enter 60 degrees,Conversation
+"Yeah, perfect.",Conversation
+Then we entered everything. Yeah. So then we're ready for briefing. What do you think?,Conversation
+Sure.,Conversation
+"Yeah, perfect.",Conversation
+And so we have a stop margin of 741 meters.,Conversation
+And so we are fine for this.,Conversation
+So do we have any specials?,Conversation
+"Regarding the aircraft, no. No.",Conversation
+"All the specials will come later in Prague. In Prague. That's good. As of now, no specials.",Conversation
+Okay. And it's no oil landing if you come back. Yeah.,Conversation
+"As soon as it's started, auto check completed, one minute and we can go.",Conversation
+"Okay, they said we should wait a minute or two.",Conversation
+"Okay, Odomo.",Conversation
+"I put in Odomo minus 250, and then 250, which is lower.",Conversation
+We have a little bit of time.,Conversation
+Let's see what it calculates.,Conversation
+"Yeah, we can wait a little bit.",Conversation
+"Yeah, so we have...",Conversation
+There are two and one in the sequence.,Conversation
+This is special.,Conversation
+This is important.,Conversation
+Yeah.,Conversation
+But we don't do that and we don't land there.,Conversation
+And so that's all good.,Conversation
+We have restrictions about the APU.,Conversation
+We can switch it on 20 minutes prior departure and I think we have to switch it off five minutes after arrival.,Conversation
+Okay.,Conversation
+Do you have more to add?,Conversation
+"No, I mean the speeds, more or less standard speeds for us now, 162.4.",Conversation
+"Yeah, so it's like Palma.",Conversation
+Yeah.,Conversation
+"Yeah, and I'll ask the air traffic controller regarding the speed.",Conversation
+Okay.,Conversation
+But I'll ask him.,Conversation
+"Okay, that's a good idea.",Conversation
+If you keep an eye on the speeds to make sure that we do it like instructed.,Conversation
+"If they tell us we should fly the standard speeds, you have them over there.",Conversation
+"I keep the map or so, the approach chart and we have this both together available.",Conversation
+That will be good.,Conversation
+Do you want to maybe quickly check regarding the fueling for the weather?,Conversation
+"Yeah, let's talk about that.",Conversation
+So the weather in Dusseldorf was fine or do we see any...,Conversation
+We can just check again.,Conversation
+Let's go ahead.,Conversation
+"Let's go ahead, get the next bit of the weather.",Conversation
+But I think it was really good.,Conversation
+Yeah.,Conversation
+Let's see.,Conversation
+So we need for 648 and we arrive with 2 tons.,Conversation
+"We're going to arrive with an hour, so 2 tons plus quantity.",Conversation
+Yeah.,Conversation
+"Right now, the weather in Dusseldorf is good.",Conversation
+"The alternate weather is just a little low clouds like in Dusseldorf, a little hazy.",Conversation
+And now the data links just stopped working.,Conversation
+But we got a forecast from Dusseldorf that is not that old.,Conversation
+So then it's fine.,Conversation
+So you are the pilot flying.,Conversation
+What do you suggest?,Conversation
+I would have suggested 5-4.,Conversation
+That's good.,Conversation
+That would have given us 15 minutes in case.,Conversation
+That's perfect.,Conversation
+Then we can order that.,Conversation
+That's great.,Conversation
+Perfect.,Conversation
+Then I'll give that a try.,Conversation
+Then we have 15 minutes of extra fuel.,Conversation
+Then we'll land with a little bit more than an hour.,Conversation
+Yeah.,Conversation
+Once we are in Dusseldorf.,Conversation
+That's fine to me.,Conversation
+Sounds good.,Conversation
+So we should be...,Conversation
+Yeah.,Conversation
+15 minutes on target.,Conversation
+Yeah.,Conversation
+Data link.,Conversation
+"Yeah, it's good weather.",Conversation
+Good weather.,Conversation
+Okay.,Conversation
+"Dusseldorf, Munster, Cologne.",Conversation
+Perfect.,Conversation
+Sounds good.,Conversation
+It's still strange to see Cologne 1-3 right instead of 1-4 right.,Conversation
+Yeah.,Conversation
+It's still very strange.,Conversation
+A change was done a few months ago.,Conversation
+Yeah.,Conversation
+And I was even flying to Cologne on a day where it was still the old numbering.,Conversation
+Yeah.,Conversation
+But it was already painted with the new one.,Conversation
+"Oh, okay.",Conversation
+Yeah.,Conversation
+So that was completely...,Conversation
+Even more confusing.,Conversation
+So it looked like that we were landing on the wrong runway.,Conversation
+Yeah.,Conversation
+I even recorded.,Conversation
+"Maybe I have to make a video of that because it was really, really interesting.",Conversation
+Yeah.,Conversation
+Yeah.,Conversation
+So the descent to Aas was different from what it was looking for.,Conversation
+So let's start the descent.,Conversation
+Yeah.,Conversation
+Then I make an announcement for our passengers.,Conversation
+Yeah.,Conversation
+"If you're ready to take the controls, let me know.",Conversation
+"Okay, yeah, I'm ready.",Conversation
+"Okay, you have control.",Conversation
+I have control.,Conversation
+"Okay, 3-7.",Conversation
+"Okay, 3-7.",Conversation
+A warm hello from the cockpit.,Conversation
+I am your captain.,Conversation
+I greet you on behalf of my colleagues in the cockpit.,Conversation
+... our first officer.,Conversation
+We are already relatively far in the flight course.,Conversation
+We are waiting for the landing in Prague on time.,Conversation
+That means 8.13 a.m. here after the display of our board computer.,Conversation
+"That can be a moment earlier or later, depending on how the traffic is represented in the approach.",Conversation
+The weather in Prague is currently a bit through.,Conversation
+It is cloudy and one or the other rain shower is still reported in the vicinity of the airport.,Conversation
+"Otherwise, it should be fine in the course of the next few hours.",Conversation
+The temperature is currently indicated at the ground with 20 degrees Celsius.,Conversation
+We are now taking care of the cockpit.,Conversation
+We would like to thank you for being with us today.,Conversation
+We hope you have a good time with us on board.,Conversation
+We wish you a nice stay in Prague and a pleasant and safe journey.,Conversation
+Thank you very much.,Conversation
+Welcome also from the flight deck.,Conversation
+I am your captain and also on behalf of my colleague.,Conversation
+"First officer, I would like to welcome your mortars Airbus 320.",Conversation
+And we are already in the approach.,Conversation
+Expect to land in Prague at 8.13 a.m.,Conversation
+This is on time.,Conversation
+The weather is right now a little cloudy with one or the other rain shower.,Conversation
+But it should be dry out over the next few hours.,Conversation
+So the temperature is 20 degrees Celsius and winds from west is about 10 km per hour.,Conversation
+At this time we are on the flight deck.,Conversation
+We would like to thank you for joining us for the flight.,Conversation
+We wish you a nice stay in Prague and a safe trip wherever you are traveling to today.,Conversation
+Thank you.,Conversation
+Okay.,Conversation
+Did I miss something?,Conversation
+"Yeah, we are descending flight level 170.",Conversation
+I was not on that.,Conversation
+That was nothing.,Conversation
+"Okay, then I switch on the fast seatbelt sign.",Conversation
+I have control.,Conversation
+You have control.,Conversation
+Do we need sunglasses or not? I don't know.,Conversation
+Now yes.,Conversation
+I think during the approach probably not.,Conversation
+"Yeah, so it's a different task.",Conversation
+You have control for a second again.,Conversation
+You are still working on your sunglasses.,Conversation
+Because I need to find mine too.,Conversation
+But I'm still good for the time.,Conversation
+Take your time.,Conversation
+I have control.,Conversation
+"Okay, you have control.",Conversation
+Let me have a look for my sunglasses too.,Conversation
+So.,Conversation
+I'm going to get a flight list of my information please.,Conversation
+It's very strange.,Conversation
+They are very difficult to understand sometimes.,Conversation
+"Yeah, it's something with the radio.",Conversation
+Yeah.,Conversation
+It's always the flight level.,Conversation
+"Yeah, always the flight level.",Conversation
+Always the flight level.,Conversation
+That comes in fine.,Conversation
+So let's see.,Conversation
+Let's look.,Conversation
+There is one cloud but this looks like this is behind the airport somehow.,Conversation
+Yeah.,Conversation
+So do we expect a shortcut or so?,Conversation
+Let me just look here.,Conversation
+That's good.,Conversation
+"Roger, Alpine 34J.",Conversation
+"So, good.",Conversation
+"Direct RASU, okay.",Conversation
+"So the preceding traffic got a base time at RASU so I'm guessing we'll probably have the same, maybe a little shorter than maybe RASU.",Conversation
+"Yeah, this is getting to see how much this is.",Conversation
+"Yeah, no problem sir.",Conversation
+"Yeah, it's just a little bit down here.",Conversation
+"Let me continue, let me continue.",Conversation
+First I'll open descent.,Conversation
+"This is weather, just a little bit more realistic.",Conversation
+We do have a few Cb's.,Conversation
+Yes.,Conversation
+QNH is now 1017.,Conversation
+1017 is set.,Conversation
+"And 20 degrees, the wind is variable 2 knots.",Conversation
+"Okay, so can you enter that in the MCD please?",Conversation
+Sure.,Conversation
+"You can enter 0 wind if you want with 2 knots variable, doesn't matter.",Conversation
+Okay.,Conversation
+Thank you.,Conversation
+Welcome.,Conversation
+"Looks like the airport, there is no weather.",Conversation
+It's all behind the airport.,Conversation
+A few clouds here.,Conversation
+The large clouds are...,Conversation
+Just a low descent. Maybe we get a short one too.,Conversation
+Looks to me that...,Conversation
+"Looks to me that FL70, that the path is not too bad right now.",Conversation
+So that's a low descent. FL70.,Conversation
+"I think we have to ask him if he has any speed control, because we are coming into the downwind, or we are already in the downwind.",Conversation
+"And here in ZW, do you have any speed control in front?",Conversation
+"Yes, sir.",Conversation
+"Do you want to fly at a specific speed, or do we have free speed, or going ZW up to your downspeed limit?",Conversation
+Thank you.,Conversation
+Good. Then we are good to go.,Conversation
+"Total air temperature plus 12, okay.",Conversation
+"Looks dark, but it's okay.",Conversation
+Do you agree that the straight track is okay for the time zone?,Conversation
+Yeah.,Conversation
+Okay.,Conversation
+"I think we are quite lucky with our track, to be honest.",Conversation
+Yes. Oh yeah. I agree.,Conversation
+Yeah.,Conversation
+"Guys, think speed is good, 250, for the cloudy situation, that's okay.",Conversation
+Yeah.,Conversation
+And let me see.,Conversation
+What about three degrees to the left?,Conversation
+"Yes, maybe.",Conversation
+Can we ask?,Conversation
+What heading do you want?,Conversation
+"Yeah, heading, let's do it, just three to the left.",Conversation
+"I'll have one, request a left turn by five degrees.",Conversation
+Approved.,Conversation
+"Okay, heading.",Conversation
+We can ask him if we can turn back to Erasmus.,Conversation
+"And with the cloud, originally, the approach, the cloud really looked like not red, but it came red as we came closer.",Conversation
+"I monitor or apply maximum braking, raise the thrust levers to the interlock, verify",Conversation
+I will close the thrust levers and disconnect the auto throttle.,Conversation
+"With about 300 tonnes for takeoff, 260, 40 tonnes, 80 divided by three, about 25 minutes",Conversation
+"OK, OK, so based off Abu Dhabi runway one three left full, dry wind is one sixty at",Conversation
+optimum optimum auto first alternate engine auto optimum based on three zero one,Conversation
+"So this is Andy, this is David, this is his mother, and this is his son, so he's showing us here, he's even turning the driver, so it's nice to hear that someone's here, and what is this? Is this the driver?",Conversation
+"So I had a different career before flying, so I always wanted to fly, but I went through",Conversation
+"a different path, and then about 2004 I started flight training, took the plunge and finished",Conversation
+"flight training at Oxford in 2006, and I was lucky enough to get a job with Jet2 at the",Conversation
+"end of 2006, starting on the 757 from Manchester.",Conversation
+"I spent six years in the UK flying, the routes were around the Mediterranean, down to the",Conversation
+"Canaries, Turkey, sometimes into the Middle East, and then applied to Etihad in 2011,",Conversation
+"I think started with Etihad 2012 on the 777 passenger fleet, and then moved on to the",Conversation
+"787 with a dual rating, and then upgraded to captain in 2017, came back on to the 777,",Conversation
+"again on to the 787, and then in 2020 moved on to the cargo fleet with Etihad.",Conversation
+"So I've been lucky to fly Boeing 757, 777 and the 787, about 15, 16 years flying now.",Conversation
+"It looks so spoiled over here, but the new day is...",Conversation
+"So, like, neatly aligned.",Conversation
+"So, I've been asked to explain a little bit, to give you a little bit of explanation about",Conversation
+the 777 and specifically the freighter.,Conversation
+"So, obviously this type is the dedicated freighter, built as a freighter with the large door,",Conversation
+the large loading door.,Conversation
+It's a very efficient aeroplane for its size.,Conversation
+It can carry a maximum payload of around 105 tonnes.,Conversation
+"Typically, the fuel burn on a 777 in flight is around between 7 and 8 tonnes per hour.",Conversation
+"So, for the size of aircraft, the maximum take-off weight around about 340 tonnes.",Conversation
+"It's a good aeroplane, it's a quite efficient aeroplane.",Conversation
+"Being a twin-engine aeroplane as well, it's relatively low fuel burn compared to, say,",Conversation
+"the previous generation, say, the 747-400.",Conversation
+"And as we were discussing earlier, the 777-300ER is starting to be retired from some passenger",Conversation
+services around the world.,Conversation
+"In fact, Etihad Engineering, on the ground in Abu Dhabi, they have the building and facility,",Conversation
+"aren't they, to convert the 300ERs into dedicated freight aircraft.",Conversation
+A little bit extra range in the ER.,Conversation
+"And I'm not exactly sure what the payload will be, but as the 747 freighters become older,",Conversation
+I think the retired passenger 777-300s will be converted.,Conversation
+And I think the future for this aircraft is probably more and more as a freighter.,Conversation
+"I'm not exactly sure on the fuel burn, but I believe a 747-400 is around 11 tonnes, 12 tonnes per hour",Conversation
+"in flight, with a payload of around about 120 tonnes.",Conversation
+"And I think that's about it. You mentioned pretty much all the threats that we have today going into frame, but I don't see anything else.",Conversation
+"If we land on 25R, then taxiing is going to be a lot longer taxi. Unfamiliar, perhaps, but from 25L, relatively short taxi.",Conversation
+"Yeah, and that can be, if we land on 25R, long taxi can lead to taxiway incursions and so on.",Conversation
+"So when we're on the ground, we just mitigate that by constantly being on the track. And if we're unsure, we stop and we confirm.",Conversation
+"I think perhaps to mention, it's quite a warm day, 27, 28 degrees in Frankfurt. We're pretty heavy, landing around 250 tons.",Conversation
+"So I can see you've set up for Flax 30, but fairly high speeds and great temperatures, but we'll cover that in the performance.",Conversation
+"You also talked about the low transition altitude, so that can lead us to sometimes forgetting about the approach checklist, so we make sure that we've completed all these checklists.",Conversation
+"Depending on the stand that we give them, as we get closer, maybe we'll talk to the ground operations to see if we can get the stand.",Conversation
+"Aircraft status, no change since departure and nothing on the MAL affecting our",Conversation
+"cruise. On route alternates as we just discussed the weather for Bahrain, Kuwait",Conversation
+left or right up to 25 nautical miles. Descent strategy as company policy,Conversation
+obstacle clearance. However on the engine outs,Conversation
+"Yeah.. Overweight landing implications, so currently asked is anything overweight? If",Conversation
+especially to Bahrain. Okay. Fuel requirements at the moment landing into,Conversation
+Frankfurt with 10.8 tons plus a little bit due to the diversion and route 2,Conversation
+east. ATC today gave us an early turn so we turned quite early out of our,Conversation
+departure and started tracking out towards so we head out towards boss of,Conversation
+primary flight display. Everything is kind of grouped based on the traditional,Conversation
+"instrumentation, Boeing instrumentation. You've got your speed tape here,",Conversation
+and the magenta line is your LNAV track. Currently routing direct towards copy,Conversation
+indications are the same and then you've got your engine instruments in the,Conversation
+for the engine. We show these on engine start but normally in flight we'd leave,Conversation
+to select panel to bring the different pages up. That shows you the hydraulics,Conversation
+master will ask for specific temperatures to be set if it's fresh,Conversation
+up to the glare shield this is the mode control panel which is your main way of,Conversation
+controlling the autopilot. All the modes are there and basically any,Conversation
+selections you make here will be reflected in the primary flight display,Conversation
+mainly these flight mode enunciators so you can see we have LNAV selected which,Conversation
+"nd of 2006, starting on the 757 from Manchester.",Conversation
+the large loading door.,Conversation
+t can carry a maximum payload of around 105 tonnes.,Conversation
+"But generally, it's around about the Sierra 11, Sierra 16, so the 600 stands or 500 stands, right?",Conversation
+"Ok, and then we both do our memory items, on the way down we do any checklist, non-normal checklist, get the local QNH, inform ATC, most important make a MEDIC, I'll let everyone in the area know",Conversation
+"For the comms, we have SIPTLC once we enter Janak",Conversation
+"Yeah, I will set up for Mumbai and I will give it a call to do our circle check",Conversation
+"For the comms, we have SIPTLC once we enter Janak",Conversation
+"And the tower gave us a taxi clearance today to go Delta, left turn on E4, then right turn on Charlie",Conversation
+"And all the way to holding point A for the wrong way, 34R in Doha",Conversation
+And that is something that we on ground cross check with our FMC,Conversation
+"The maximum speed for the turn was 210, then Serga below 4,000",Conversation
+"And then later on they told us to just proceed unrestricted climb 12,000",Conversation
+And from there the control passes to fly level 250 to be below Bundu,Conversation
+Initially we normally all the pilots or the crew we meet up at the QROC at the dispatch area,Conversation
+"the number of passengers, where they are sitting, where they are seated",Conversation
+From there we have the loadmaster or the dispatch agent,Conversation
+Then when the other one returns to the cockpit from the walk around,Conversation
+"While the other one is in the cockpit, we set up the aircraft for the expected flight plan",Conversation
+So today as Captain mentioned on ground,Conversation
+From Doha until we arrive to Maldives we will be crossing different air spaces,Conversation
+Calculate the performance,Conversation
+So basically we will contact like 10 minutes before Mumbai by HF,Conversation
+So basically we will log on here with Mumbai,Conversation
+Even if we want to climb or descend we can do everything through this tool,Conversation
+Without the need to call to Mumbai,Conversation
+Okay on landing they normally tell us which side to vacate but we expected to vacate to the left and fairly short taxi but we can do single engine taxi with time permitting.,Conversation
+Just a quick look at the fuel we got 10.1 landing fuel at the moment it's 8 points the planned arrival fuel is just check.,Conversation
+"the low transition, radar vectors, track shortening, hot day, quite high landing weight but.",Conversation
+fairly short taxi and possible possible runway change we'll see.,Conversation
+The plan is to land into Frankfurt's runway 25L ILS approach.,Conversation
+The ILS approach will have us from a lead key onto a decision altitude of 562.,Conversation
+And a missed approach altitude of 5000 feet.,Conversation
+Understood.. Following the missed approach procedure that's in the FNC.,Conversation
+"On landing, runway 25L, expect to vacate around about Romeo 13 and then right Romeo.",Conversation
+"the low transition, radar vectors, track shortening, hot day, quite high landing",Conversation
+weight but. fairly short taxi and possible possible runway change we'll see.,Conversation
+Happy with that? Happy with that. Briefly complete. Alright so we'll do the descent checklist.,Conversation
+Okay so we'll put the main deck flow on high.,Conversation
+"Rhein, good afternoon, Etihad 901, flight number 320.",Conversation
+"the low transition, radar vectors, track shortening, hot day, quite high landing",Conversation
+it's quite a warm day our performance requires flaps 32 the higher approach,Conversation
+off on runway 1-3 left out of Abu Dhabi and the approach the departure that we,Conversation
+boss of one foxtrot so we took off on runway 1-3 left out on our heading,Conversation
+straight ahead and the initial the initial departure shows that we would,Conversation
+zero fuel weight than the passenger versions. Flight deck as I mentioned is,Conversation
+and the magenta line is your LNAV track. Currently routing direct towards copy,Conversation
+synoptic. We've got the gear here this shows you brake temperatures and tire,Conversation
+"rest of the cockpit you've got the gears you've got the auto brake selector, two",Conversation
+messages like this or get some weather send and receive messages,Conversation
+pitch trim the speed brake thrust reversers are just behind here and then,Conversation
+standard flap setting sometimes flaps 15 and very occasionally flaps 20 for takeoff.,Conversation
+For landing today we'll be using either flaps 30 or flaps 25. Standard would be,Conversation
+flaps 25 if you're heavy if the runway is wet etc we'd use flaps 30. Down on the,Conversation
+com 1 this is our active frequency this is our standby frequency. Charles has,Conversation
+just checked in with Jetta control on 1344. I'm monitoring on the right box,Conversation
+As mentioned we got a backup FMC on the side this is our rudder trim,Conversation
+got the circuit breakers again something you'd have a quick check over when you,Conversation
+our functions available we can look at the airport map for our departure,Conversation
+destination we can we calculate our performance on here we do have a company,Conversation
+available here this is showing our departures. Now we're en route I'll start,Conversation
+to add some on route alternates here get the weather and check the runways,Conversation
+Mediterranean. Other controls in the flight deck this is the tiller we use,Conversation
+takeoff via Lima 1. And so we have a stop margin of 741 meters. Engine out is straight ahead.,Conversation
+"flaps 1. And 138, 138, 139. Yeah, perfect. Green dot 210. Okay. Yeah. Perfect. Yeah.",Conversation
+"cleared via the Doordenainer Tango. Yeah. Departure initial climb will be 5000 feet,",Conversation
+"Okay.. Okay, go back.",Conversation
+"Okay.. Okay, I will do that then. ",Conversation
+"Okay, sounds good.",Conversation
+Everything is ready,Conversation
+Everything fine. How about you.,Conversation
+Everything fine.,Conversation
+"ok, good. good, Christian",Conversation
+It is al good now,Conversation
+Yes.. Set standard.,Conversation
+Connection.. Delta.. Okay.,Conversation
+OK.. Interesting.. Still no ice.,Conversation
+Delay.. OK.. 3-2.,Conversation
+Almost the same like in Düsseldorf,Conversation
+"Luxembourg?. yes. ok, very good",Conversation
+"To the right, to the left. Left is good",Conversation
+Hangen Air Force 272,Conversation
+and Luxembourg to the right and straight edge is already frowned,Conversation
+"Coming together, yeah",Conversation
+"no problem. no problem, selected",Conversation
+"No problem, everything seems fine",Conversation
+No problem all seems fine,Conversation
+"CAP, good day, Lenshine",Conversation
+"Good day, all. Have a nice flight.",Conversation
+"Good morning, have a nice day",Conversation
+We are restricted to 2 minutes after unblocked time to shut down the APU,Conversation
+"I can ask if we can fly our own speed or what we have to expect, I think 160 to 4 and  160 to 4, 190 to 9",Conversation
+"Oh yes. yes, yes, perfect, carwalk",Conversation
